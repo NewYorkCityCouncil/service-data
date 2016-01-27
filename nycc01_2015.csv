@@ -1,168 +1,513 @@
 Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough,City,Council Dist.,Comm. Bd.
-,,,,,,,,,,
-507303,NYCC01,Aging,Elder Abuse,11/17/2015,12/16/2015,10001,,New York,,
-507081,NYCC01,Aging,Medicare Savings Program,9/9/2015,12/9/2015,10038,Manhattan,New York,NYCC01,1
-507376,NYCC01,Aging,Medicare Savings Program,12/8/2015,,10013,Manhattan,New York,NYCC01,3
-507326,NYCC01,Aging,Senior Centers,11/19/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
-506764,NYCC01,Aging,,7/8/2015,,11214,Brooklyn,Brooklyn,NYCC47,11
-506765,NYCC01,Aging,,7/8/2015,,,,,,
-506790,NYCC01,Aging,,7/12/2015,,10039,,Manhattan,,
-506791,NYCC01,Aging,,7/12/2015,,10039,,Nyc,,
-506794,NYCC01,Aging,,7/13/2015,,10039,,Manhattan,,
-506825,NYCC01,Aging,,7/19/2015,,10002,Manhattan,New York,NYCC01,3
-506903,NYCC01,Aging,,8/2/2015,,10002,Manhattan,New York,NYCC01,3
-507057,NYCC01,Aging,,9/16/2015,,10128,Manhattan,New York,NYCC05,8
-507065,NYCC01,Aging,,9/19/2015,,10002,Manhattan,New York,NYCC01,3
-507131,NYCC01,Aging,,10/13/2015,,10007,Manhattan,New York,NYCC01,1
-507132,NYCC01,Aging,,10/13/2015,,10014,Manhattan,New York,NYCC03,2
-507166,NYCC01,Aging,,10/23/2015,,10025,Manhattan,New York,NYCC07,7
-507349,NYCC01,Aging,,11/29/2015,,10012,Manhattan,New York,NYCC01,2
-507417,NYCC01,Aging,,12/17/2015,,10002,Manhattan,New York,NYCC01,3
-507055,NYCC01,Civil Service and Labor,Civil Service Commission,9/15/2015,9/15/2015,10038,Manhattan,New York,NYCC01,3
-507411,NYCC01,Civil Service and Labor,Employee Benefits and Retirement,12/15/2015,12/17/2015,10002,Manhattan,New York,NYCC01,3
-507075,NYCC01,Civil Service and Labor,Hourly/Part-Time Wage Payments,8/26/2015,,10467,Bronx,Bronx,NYCC11,7
-507468,NYCC01,Civil Service and Labor,Job Requirements,12/30/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
-507428,NYCC01,Civil Service and Labor,Workplace Conditions,12/21/2015,12/31/2015,11222,Brooklyn,Brooklyn,NYCC33,1
-507433,NYCC01,Consumer Affairs,Debt Collection Agcy,12/23/2015,1/7/2016,10038,,New York,,
-507410,NYCC01,Consumer Affairs,Insurance,12/16/2015,12/16/2015,10012,Manhattan,New York,NYCC01,2
-507442,NYCC01,Consumer Affairs,Restaurant,12/28/2015,1/12/2016,10460,,Bronx,,
-507043,NYCC01,Consumer Affairs,Retail Store,9/3/2015,12/4/2015,11372,Queens,Jackson Heights,NYCC25,3
-507267,NYCC01,Consumer Affairs,Retail Store,11/13/2015,,10002,Manhattan,New York,NYCC01,3
-507170,NYCC01,Consumer Affairs,Telephone Scam,10/20/2015,12/3/2015,,,,,
-507150,NYCC01,Consumer Affairs,Telephone Scam,10/20/2015,12/29/2015,10012,Manhattan,New York,NYCC01,2
-507465,NYCC01,Consumer Affairs,Telephone Scam,12/29/2015,12/29/2015,,,,,
-507047,NYCC01,Consumer Affairs,,9/8/2015,,10002,Manhattan,New York,NYCC01,3
+506329,NYCC01,Aging,Senior Centers,1/2/2015,1/14/2015,11220,Brooklyn,Brooklyn,NYCC38,7
+506330,NYCC01,Consumer Affairs,,1/3/2015,,10001,,Manhattan,,
+506331,NYCC01,Aging,,1/4/2015,,10001,,New York,,
+506332,NYCC01,Aging,,1/4/2015,,10001,,New York,,
+506333,NYCC01,Sanitation,,1/4/2015,,10006,Manhattan,New York,NYCC01,1
+506436,NYCC01,Housing and Buildings,,1/5/2015,,10002,Manhattan,New York,NYCC01,3
+506334,NYCC01,Land Use and Zoning,,1/5/2015,1/15/2015,10003,Manhattan,New York,NYCC02,5
+506371,NYCC01,Quality of Life,Noise - Residential,1/6/2015,3/5/2015,10038,Manhattan,New York,NYCC01,3
+506338,NYCC01,Transportation,Parking Permits,1/6/2015,3/17/2015,10002,Manhattan,New York,NYCC01,3
+506335,NYCC01,Transportation,Pot Holes,1/6/2015,,10002,Manhattan,New York,NYCC01,3
+506341,NYCC01,Housing and Buildings,NYCHA Building Maintenance,1/7/2015,,,,,,
+506342,NYCC01,Economy/Jobs,Business Assistance,1/8/2015,1/8/2015,11355,Queens,Flushing,NYCC20,7
+506345,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,1/8/2015,1/8/2015,10013,Manhattan,New York,NYCC01,3
+506346,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,1/8/2015,1/8/2015,10013,Manhattan,New York,NYCC01,3
+506343,NYCC01,Immigration,Visas,1/8/2015,1/8/2015,10002,Manhattan,New York,NYCC01,3
+506347,NYCC01,,,1/8/2015,,10038,Manhattan,New York,NYCC01,3
+506437,NYCC01,Housing and Buildings,,1/9/2015,,10002,Manhattan,New York,NYCC01,3
+506348,NYCC01,Health,,1/10/2015,,10001,,New York,,
+506349,NYCC01,Public Safety,,1/10/2015,,10007,Manhattan,New York,NYCC01,1
+506352,NYCC01,Civil Service and Labor,,1/12/2015,,10002,Manhattan,New York,NYCC01,3
+506354,NYCC01,Consumer Affairs,Restaurant,1/12/2015,1/12/2015,10003,Manhattan,New York,NYCC01,2
+506495,NYCC01,Finance,SCRIE,1/12/2015,3/10/2015,10280,Manhattan,New York,NYCC01,1
+506353,NYCC01,General Welfare,SSI and Social Security,1/12/2015,1/12/2015,10002,Manhattan,New York,NYCC01,3
+506358,NYCC01,General Welfare,,1/12/2015,,10002,Manhattan,New York,NYCC01,3
+506357,NYCC01,Housing and Buildings,Rental Arrears,1/12/2015,1/12/2015,10002,Manhattan,New York,NYCC01,3
+506359,NYCC01,Housing and Buildings,,1/12/2015,1/15/2015,10009,Manhattan,New York,NYCC02,3
+506356,NYCC01,Transportation,Parking Signs,1/12/2015,1/21/2015,10002,Manhattan,New York,NYCC01,3
+506350,NYCC01,Transportation,Sidewalks,1/12/2015,,10002,Manhattan,New York,NYCC01,3
+506355,NYCC01,Transportation,Traffic Enforcement,1/12/2015,1/21/2015,10004,Manhattan,New York,NYCC01,1
+506366,NYCC01,Finance,,1/14/2015,1/15/2015,10001,,New York,,
+506361,NYCC01,Governmental Operations,,1/14/2015,,11233,Brooklyn,Brooklyn,NYCC36,3
+506364,NYCC01,Housing and Buildings,Heat/Hot Water,1/14/2015,,10012,Manhattan,New York,NYCC01,2
+506362,NYCC01,Housing and Buildings,Section 8,1/14/2015,,10002,Manhattan,New York,NYCC01,3
+506367,NYCC01,Housing and Buildings,Section 8,1/14/2015,,10013,Manhattan,New York,NYCC01,3
+506368,NYCC01,Public Safety,Justice System,1/14/2015,,11416,Queens,Ozone Park,NYCC32,9
+506372,NYCC01,,,1/14/2015,,10002,Manhattan,New York,NYCC01,3
+506373,NYCC01,Consumer Affairs,Insurance,1/15/2015,,10002,Manhattan,New York,NYCC01,3
+506381,NYCC01,General Welfare,Food Stamps,1/15/2015,,10016,Manhattan,New York,NYCC02,6
+506374,NYCC01,Housing and Buildings,Building Maintenance,1/15/2015,,10038,Manhattan,New York,NYCC01,3
+506383,NYCC01,Housing and Buildings,Eviction,1/15/2015,,10038,Manhattan,New York,NYCC01,3
+506376,NYCC01,Housing and Buildings,NYCHA Transfers,1/15/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
+506380,NYCC01,Housing and Buildings,Request for Housing Related Legal Assistance,1/15/2015,,10013,Manhattan,New York,NYCC01,3
+506379,NYCC01,Immigration,U.S. Citizenship,1/15/2015,,11229,Brooklyn,Brooklyn,NYCC48,15
+506378,NYCC01,Quality of Life,Noise - Other,1/15/2015,,10012,Manhattan,New York,NYCC01,2
+506382,NYCC01,Transportation,,1/15/2015,,11201,Brooklyn,Brooklyn,NYCC33,2
+506377,NYCC01,,,1/15/2015,,10002,Manhattan,New York,NYCC01,3
+506519,NYCC01,Legal Services,Misc (Wills/Court Docs/etc.),1/16/2015,3/11/2015,10002,Manhattan,New York,NYCC01,3
+506408,NYCC01,Cultural Affairs,Theaters,1/20/2015,2/2/2015,10964,,Palisades,NYCC,
+506386,NYCC01,General Welfare,,1/20/2015,,12345,,Los Angeles,,
+506387,NYCC01,Transportation,Access-A-Ride,1/20/2015,12/30/2015,10023,Manhattan,New York,NYCC06,7
+506391,NYCC01,Transportation,Street Signs,1/20/2015,,10002,Manhattan,New York,NYCC01,3
+506393,NYCC01,General Welfare,Home Attendants,1/21/2015,,11101,Queens,Long Island City,NYCC26,1
+506394,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,1/21/2015,,10012,Manhattan,New York,NYCC01,2
+506496,NYCC01,Housing and Buildings,NYCHA New Application,1/21/2015,3/10/2015,10002,Manhattan,New York,NYCC01,3
+506395,NYCC01,Aging,,1/22/2015,,10007,Manhattan,New York,NYCC01,1
+506397,NYCC01,Environment,,1/22/2015,1/30/2015,10002,Manhattan,New York,NYCC01,3
+506396,NYCC01,Housing and Buildings,,1/22/2015,,10002,Manhattan,New York,NYCC01,3
+506410,NYCC01,Immigration,Visas,1/22/2015,2/3/2015,11223,Brooklyn,Brooklyn,NYCC47,11
+506398,NYCC01,General Welfare,,1/24/2015,1/30/2015,12345,,Ashuelot,,
+506400,NYCC01,Education,,1/26/2015,,10028,Manhattan,New York,NYCC05,8
+506399,NYCC01,Transportation,,1/26/2015,,11209,Brooklyn,Brooklyn,NYCC43,10
+506401,NYCC01,Public Safety,,1/27/2015,,10012,Manhattan,New York,NYCC01,2
+506402,NYCC01,Aging,,1/28/2015,,14196,,Brazzaville,,
+506403,NYCC01,Finance,,1/28/2015,1/30/2015,10001,,New York,,
+506411,NYCC01,Housing and Buildings,,1/28/2015,,10002,Manhattan,New York,NYCC01,3
+506414,NYCC01,,,1/29/2015,,10038,Manhattan,New York,NYCC01,3
+506413,NYCC01,Finance,SCRIE,1/30/2015,4/1/2015,10013,Manhattan,New York,NYCC01,3
+506405,NYCC01,Finance,,1/30/2015,,10001,,New York,,
+506406,NYCC01,Housing and Buildings,Gas,1/30/2015,10/14/2015,,,,,
+506482,NYCC01,Utilities,Verizon,1/30/2015,,10035,Manhattan,New York,NYCC08,11
+506404,NYCC01,,,1/30/2015,,12345,,123456,,
+506409,NYCC01,General Welfare,,2/3/2015,,10038,Manhattan,New York,NYCC01,1
+506415,NYCC01,Housing and Buildings,,2/3/2015,,10038,Manhattan,New York,NYCC01,1
+506417,NYCC01,Aging,,2/4/2015,,11355,Queens,Flushing,NYCC20,7
+506421,NYCC01,General Welfare,,2/4/2015,2/6/2015,10019,Manhattan,New York,NYCC03,4
+506419,NYCC01,Health,Animal Care/Wild Animal,2/4/2015,2/4/2015,10012,Manhattan,New York,NYCC01,2
+506420,NYCC01,Health,Animal Care/Wild Animal,2/4/2015,2/4/2015,10002,Manhattan,New York,NYCC01,3
+506416,NYCC01,Housing and Buildings,NYCHA Misc.,2/4/2015,,10038,Manhattan,New York,NYCC01,3
+506418,NYCC01,Housing and Buildings,Rent Increases,2/4/2015,12/29/2015,,,,,
+506424,NYCC01,Cultural Affairs,,2/6/2015,2/9/2015,11205,Brooklyn,Brooklyn,NYCC35,2
+506423,NYCC01,Transportation,,2/6/2015,,10037,Manhattan,New York,NYCC09,10
+506422,NYCC01,,,2/6/2015,,12345,,123456,,
+506425,NYCC01,Economy/Jobs,,2/7/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
+506426,NYCC01,,,2/8/2015,,gucci,,Gucci Bags,,
+506427,NYCC01,Housing and Buildings,,2/9/2015,,10280,Manhattan,New York,NYCC01,1
+506430,NYCC01,Environment,Noise Level Measuring Request,2/10/2015,2/10/2015,10002,Manhattan,New York,NYCC01,3
+506428,NYCC01,Finance,,2/10/2015,,10001,,New York,,
+506490,NYCC01,Transportation,,2/10/2015,3/9/2015,11232,Brooklyn,Brooklyn,NYCC38,12
+506442,NYCC01,Aging,,2/11/2015,,11230,Brooklyn,Brooklyn,NYCC44,12
+506441,NYCC01,Education,,2/11/2015,,10009,Manhattan,New York,NYCC04,6
+506443,NYCC01,,,2/12/2015,,north,,North Face Outlet Store,,
+506444,NYCC01,,,2/13/2015,,12345,,123456,,
+506445,NYCC01,Public Safety,,2/14/2015,2/23/2015,10016,Manhattan,New York,NYCC02,6
+506446,NYCC01,Transportation,,2/14/2015,2/23/2015,10038,Manhattan,New York,NYCC01,1
+506447,NYCC01,Economy/Jobs,,2/15/2015,,10001,,New York,,
+506450,NYCC01,Finance,,2/15/2015,,10001,,New York,,
+506448,NYCC01,General Welfare,,2/15/2015,,12345,,Ambler,,
+506449,NYCC01,Youth Services,,2/15/2015,,10038,Manhattan,New York,NYCC01,1
+506451,NYCC01,,,2/15/2015,,12345,,123456,,
+506452,NYCC01,,,2/16/2015,,12345,,123456,,
+506453,NYCC01,Cultural Affairs,,2/17/2015,,10001,Manhattan,New York,NYCC03,5
+506454,NYCC01,Public Safety,,2/17/2015,,10013,Manhattan,New York,NYCC01,1
+506594,NYCC01,Transportation,,2/17/2015,,10002,Manhattan,New York,NYCC01,3
+506455,NYCC01,Environment,Water and Sewage Bills,2/18/2015,2/18/2015,10012,Manhattan,New York,NYCC01,2
+506456,NYCC01,Housing and Buildings,Heat/Hot Water,2/18/2015,2/18/2015,10002,Manhattan,New York,NYCC01,3
+506459,NYCC01,Cultural Affairs,,2/19/2015,2/23/2015,10002,Manhattan,New York,NYCC01,3
+506457,NYCC01,General Welfare,,2/19/2015,,10010,Manhattan,New York,NYCC02,6
+506458,NYCC01,Youth Services,,2/19/2015,,10002,,New York,,
+506463,NYCC01,Finance,,2/20/2015,,10002,Manhattan,New York,NYCC02,3
+506460,NYCC01,Housing and Buildings,Heat/Hot Water,2/20/2015,3/11/2015,10002,Manhattan,New York,NYCC01,3
+506461,NYCC01,Housing and Buildings,NYCHA Misc.,2/20/2015,12/28/2015,10002,Manhattan,New York,NYCC01,3
+506462,NYCC01,Transportation,,2/20/2015,,10004,,New York,,
+506464,NYCC01,Public Safety,,2/21/2015,2/23/2015,11375,Queens,Forest Hills,NYCC29,6
+506518,NYCC01,Housing and Buildings,Mitchell-Lama,2/23/2015,,10002,Manhattan,New York,NYCC01,3
+506465,NYCC01,Public Safety,,2/23/2015,2/23/2015,22060,,Fort Belvoir,,
+506466,NYCC01,Public Safety,,2/23/2015,2/23/2015,10013,Manhattan,New York,NYCC01,2
+506481,NYCC01,Housing and Buildings,Section 8,2/24/2015,,11204,Brooklyn,Brooklyn,NYCC47,11
+506467,NYCC01,,,2/24/2015,,12345,,123456,,
+506468,NYCC01,,,2/24/2015,,12345,,123456,,
+506471,NYCC01,Cultural Affairs,,2/26/2015,,10013,Manhattan,New York,NYCC01,1
+506521,NYCC01,Housing and Buildings,Lease Issue,2/27/2015,3/11/2015,10002,Manhattan,New York,NYCC01,3
+506491,NYCC01,Housing and Buildings,Senior Housing,2/27/2015,3/9/2015,10465,Bronx,Bronx,NYCC13,10
+506472,NYCC01,Land Use and Zoning,,2/27/2015,,10280,Manhattan,New York,NYCC01,1
+506473,NYCC01,,,2/28/2015,,12345,,123456,,
+506474,NYCC01,,,2/28/2015,,12345,,123456,,
+506475,NYCC01,,,3/1/2015,,12345,,123456,,
+506476,NYCC01,,,3/1/2015,,12345,,123456,,
+506483,NYCC01,Economy/Jobs,Unemployment Insuran,3/3/2015,3/11/2015,10009,Manhattan,New York,NYCC02,3
+506477,NYCC01,Parks,,3/3/2015,,10002,Manhattan,New York,NYCC02,3
+506478,NYCC01,Cultural Affairs,,3/4/2015,,10027,Manhattan,New York,NYCC07,9
+506479,NYCC01,Health,,3/4/2015,,10028,Manhattan,New York,NYCC05,8
+506480,NYCC01,,,3/4/2015,,12345,,123456,,
+506484,NYCC01,Housing and Buildings,,3/6/2015,,10025,Manhattan,New York,NYCC07,7
+506486,NYCC01,Quality of Life,Noise - Other,3/6/2015,,11421,Queens,Woodhaven,NYCC32,9
+506488,NYCC01,Utilities,Verizon,3/6/2015,3/9/2015,11204,Brooklyn,Brooklyn,NYCC44,11
+506489,NYCC01,Utilities,Verizon,3/6/2015,4/1/2015,11203,Brooklyn,Brooklyn,NYCC40,9
+506485,NYCC01,,,3/6/2015,,12345,,123456,,
+506487,NYCC01,,,3/8/2015,,12345,,123456,,
+506492,NYCC01,Environment,,3/9/2015,,10038,Manhattan,New York,NYCC01,1
+506497,NYCC01,Education,,3/10/2015,3/10/2015,10003,Manhattan,New York,NYCC02,3
+506494,NYCC01,Public Safety,,3/10/2015,,10003,Manhattan,New York,NYCC01,2
+506493,NYCC01,,,3/10/2015,,12345,,123456,,
+506506,NYCC01,Environment,,3/11/2015,,10006,Manhattan,New York,NYCC01,1
+506500,NYCC01,Housing and Buildings,NYCHA Building Maintenance,3/11/2015,,10002,,New York,,
+506502,NYCC01,Housing and Buildings,NYCHA Building Maintenance,3/11/2015,3/11/2015,10002,Manhattan,New York,NYCC01,3
+506503,NYCC01,Housing and Buildings,,3/11/2015,3/11/2015,10013,Manhattan,New York,NYCC01,1
+506504,NYCC01,Public Safety,,3/11/2015,,10006,Manhattan,New York,NYCC01,1
+506525,NYCC01,Aging,,3/12/2015,,10012,Manhattan,New York,NYCC01,2
+506524,NYCC01,General Welfare,Child Custody Issue,3/12/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+506526,NYCC01,Health,,3/12/2015,,10006,Manhattan,New York,NYCC01,1
+506527,NYCC01,Housing and Buildings,NYCHA Building Maintenance,3/13/2015,3/13/2015,10002,,New York,,
+506528,NYCC01,Housing and Buildings,Succession Rights,3/13/2015,,10038,Manhattan,New York,NYCC01,3
+506529,NYCC01,,,3/13/2015,,10002,Manhattan,New York,NYCC01,3
+506530,NYCC01,Economy/Jobs,Business Assistance,3/14/2015,3/17/2015,12345,,123456,,
+506532,NYCC01,Education,,3/16/2015,3/17/2015,10013,Manhattan,New York,NYCC01,1
+506749,NYCC01,Housing and Buildings,NYCHA Safety and Security,3/16/2015,,11356,Queens,Flushing,NYCC19,7
+506531,NYCC01,,,3/16/2015,3/17/2015,12345,,123456,,
+506536,NYCC01,Economy/Jobs,,3/17/2015,,10012,Manhattan,New York,NYCC01,2
+506534,NYCC01,Environment,,3/17/2015,,10012,Manhattan,New York,NYCC01,2
+506539,NYCC01,Governmental Operations ,,3/17/2015,,10002,Manhattan,New York,NYCC01,3
+506538,NYCC01,Housing and Buildings,,3/17/2015,,10012,Manhattan,New York,NYCC01,2
+506533,NYCC01,,,3/17/2015,3/17/2015,12345,,123456,,
+506540,NYCC01,,,3/18/2015,,12345,,123456,,
+506541,NYCC01,,,3/18/2015,,12345,,123456,,
+506544,NYCC01,Consumer Affairs,Home Improvement Issues,3/19/2015,12/29/2015,10013,Manhattan,New York,NYCC01,1
+506543,NYCC01,Housing and Buildings,,3/19/2015,,10012,Manhattan,New York,NYCC01,2
+506553,NYCC01,Housing and Buildings,,3/19/2015,,10002,Manhattan,New York,NYCC01,3
+506542,NYCC01,,,3/19/2015,,12345,,123456,,
+506545,NYCC01,Consumer Affairs,Home Improvement Issues,3/20/2015,12/16/2015,10013,Manhattan,New York,NYCC01,1
+506546,NYCC01,Consumer Complaints,,3/21/2015,,10002,Manhattan,New York,NYCC01,3
+506547,NYCC01,Environment,,3/22/2015,,11201,Brooklyn,Brooklyn,NYCC33,2
+506548,NYCC01,Transportation,,3/22/2015,,7731,,Howell,,
+506549,NYCC01,,,3/22/2015,,12345,,123456,,
+506551,NYCC01,Land Use and Zoning,,3/23/2015,,10038,Manhattan,New York,NYCC01,1
+506552,NYCC01,,Identity Theft,3/23/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
+506550,NYCC01,,,3/23/2015,,12345,,123456,,
+506556,NYCC01,Environment,,3/24/2015,,11222,Brooklyn,Brooklyn,NYCC33,1
+506554,NYCC01,Parks,,3/24/2015,,10013,Manhattan,New York,NYCC01,2
+506555,NYCC01,Quality of Life,Noise - Construction,3/24/2015,,10013,Manhattan,New York,NYCC01,1
+506557,NYCC01,Governmental Operations ,,3/25/2015,,7731,,Howell,,
+506558,NYCC01,Housing and Buildings,Neighbor Dispute,3/25/2015,,10038,,New York,,
+506559,NYCC01,Housing and Buildings,,3/25/2015,,10012,Manhattan,New York,NYCC01,2
+506560,NYCC01,Legal Services,Housing,3/25/2015,12/29/2015,10012,Manhattan,New York,NYCC01,2
+506563,NYCC01,Housing and Buildings,NYCHA Building Maintenance,3/26/2015,4/2/2015,10038,Manhattan,New York,NYCC01,3
+506562,NYCC01,Transportation,Street Resurfacing,3/26/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+506561,NYCC01,,,3/26/2015,,12345,,123456,,
+506564,NYCC01,,,3/26/2015,,12345,,123456,,
+506565,NYCC01,,,3/26/2015,,12345,,123456,,
+506567,NYCC01,Aging,,3/27/2015,,10007,Manhattan,New York,NYCC01,1
+506566,NYCC01,General Welfare,,3/27/2015,,10012,Manhattan,New York,NYCC01,2
+506568,NYCC01,Housing and Buildings,,3/27/2015,,11355,Queens,Flushing,NYCC20,7
+506569,NYCC01,Education,,3/30/2015,,10002,Manhattan,New York,NYCC01,3
+506570,NYCC01,Health,,3/30/2015,,10033,Manhattan,New York,NYCC10,12
+506571,NYCC01,Economy/Jobs,Business Assistance,3/31/2015,4/8/2015,10038,Manhattan,New York,NYCC01,3
+506574,NYCC01,Quality of Life,Panhandling,3/31/2015,8/25/2015,10012,Manhattan,New York,NYCC01,2
+506572,NYCC01,Transportation,Buses,3/31/2015,12/29/2015,,,,,
+506573,NYCC01,Transportation,Buses,3/31/2015,8/25/2015,,,New York,,
+506576,NYCC01,Housing and Buildings,Construction General,4/1/2015,4/1/2015,10002,Manhattan,New York,NYCC01,3
+506575,NYCC01,Utilities,Prepaid Mobile Service,4/1/2015,,10013,Manhattan,New York,NYCC01,3
+506578,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,4/2/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+506579,NYCC01,Housing and Buildings,Succession Rights,4/2/2015,,10038,Manhattan,New York,NYCC01,3
+506577,NYCC01,Transportation,,4/2/2015,,10023,Manhattan,New York,NYCC06,7
+506581,NYCC01,Cultural Affairs,,4/3/2015,4/8/2015,10116,,New York,,
+506584,NYCC01,Economy/Jobs,Business Assistance,4/3/2015,4/8/2015,Oakle,,Oakley Outlet California,,
+506583,NYCC01,Finance,SCRIE,4/3/2015,4/3/2015,10002,Manhattan,New York,NYCC01,3
+506580,NYCC01,Parks,,4/3/2015,,10003,Manhattan,New York,NYCC01,2
+506582,NYCC01,Quality of Life,Noise - Other,4/3/2015,,10013,,New York,,
+506586,NYCC01,Cultural Affairs,,4/6/2015,4/14/2015,10038,Manhattan,New York,NYCC01,1
+506585,NYCC01,Sanitation,,4/6/2015,,10038,Manhattan,New York,NYCC01,3
+506587,NYCC01,Housing and Buildings,,4/7/2015,,10002,Manhattan,New York,NYCC01,3
+506588,NYCC01,Parks,,4/8/2015,,10010,Manhattan,New York,NYCC02,5
+506589,NYCC01,Housing and Buildings,,4/9/2015,4/14/2015,10009,Manhattan,New York,NYCC04,6
+506590,NYCC01,Youth Services,,4/11/2015,,10011,,New York,,
+506591,NYCC01,Transportation,,4/12/2015,4/14/2015,10038,Manhattan,New York,NYCC01,3
+506592,NYCC01,Aging,,4/13/2015,,10024,Manhattan,New York,NYCC06,7
+506595,NYCC01,Education,,4/13/2015,4/14/2015,10013,Manhattan,New York,NYCC01,2
+506971,NYCC01,Parks,Park Maintenance,4/13/2015,8/17/2015,10038,Manhattan,New York,NYCC01,1
+506593,NYCC01,Parks,,4/13/2015,,10014,Manhattan,New York,NYCC03,2
+506597,NYCC01,Cultural Affairs,,4/14/2015,4/14/2015,11201,Brooklyn,Brooklyn,NYCC33,2
+506601,NYCC01,Economy/Jobs,Business Assistance,4/14/2015,4/21/2015,12345,,123456,,
+506598,NYCC01,Finance,Budget Allocation Issue,4/14/2015,4/14/2015,10013,Manhattan,New York,NYCC01,2
+506599,NYCC01,Finance,Budget Allocation Issue,4/14/2015,4/14/2015,10002,Manhattan,New York,NYCC01,3
+506600,NYCC01,General Welfare,,4/14/2015,4/14/2015,10038,Manhattan,New York,NYCC01,1
+506603,NYCC01,Education,,4/15/2015,,10009,Manhattan,New York,NYCC02,3
+506602,NYCC01,Parks,,4/15/2015,,10001,Manhattan,New York,NYCC04,5
+506604,NYCC01,General Welfare,Discrimination,4/16/2015,4/16/2015,10011,Manhattan,New York,NYCC03,2
+506605,NYCC01,Economy/Jobs,Business Assistance,4/17/2015,4/27/2015,12345,,123456,,
+506606,NYCC01,Transportation,,4/17/2015,,10002,Manhattan,New York,NYCC01,3
+506607,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,4/18/2015,4/27/2015,10002,Manhattan,New York,NYCC01,3
+506610,NYCC01,Public Safety,,4/20/2015,,10002,Manhattan,New York,NYCC01,3
+506609,NYCC01,Transportation,Subways,4/20/2015,,10002,Manhattan,New York,NYCC01,3
+506608,NYCC01,Transportation,,4/20/2015,4/27/2015,10013,Manhattan,New York,NYCC01,1
+506611,NYCC01,Housing and Buildings,,4/22/2015,4/27/2015,10002,Manhattan,New York,NYCC02,3
+506614,NYCC01,Housing and Buildings,,4/24/2015,,10002,Manhattan,New York,NYCC01,3
+506616,NYCC01,Housing and Buildings,,4/24/2015,,10002,Manhattan,New York,NYCC01,3
+506615,NYCC01,Quality of Life,Noise - Residential,4/24/2015,,10002,Manhattan,New York,NYCC01,3
+506612,NYCC01,Environment,,4/27/2015,4/27/2015,11249,Brooklyn,Brooklyn,NYCC33,1
+506613,NYCC01,Legal Services,,4/27/2015,,10002,Manhattan,New York,NYCC01,3
+506617,NYCC01,,,4/28/2015,,12345,,123456,,
+506618,NYCC01,,,4/28/2015,,12345,,123456,,
+506619,NYCC01,Housing and Buildings,NYCHA New Application,4/30/2015,4/30/2015,10002,Manhattan,New York,NYCC01,3
+506622,NYCC01,Consumer Complaints,,5/1/2015,,10013,Manhattan,New York,NYCC01,1
+506623,NYCC01,Consumer Complaints,,5/1/2015,,11691,Queens,Far Rockaway,NYCC31,14
+506624,NYCC01,Parks,Park Maintenance,5/4/2015,5/15/2015,10013,Manhattan,New York,NYCC01,2
+506668,NYCC01,,,5/4/2015,,10003,Manhattan,New York,NYCC02,3
+506639,NYCC01,Consumer Affairs,Debt Collection Agcy,5/5/2015,12/11/2015,10019,Manhattan,New York,NYCC03,4
+506625,NYCC01,Housing and Buildings,,5/5/2015,5/15/2015,10009,Manhattan,New York,NYCC02,3
+506664,NYCC01,,,5/5/2015,,11374,Queens,Rego Park,NYCC29,6
+506640,NYCC01,,,5/5/2015,,10002,Manhattan,New York,NYCC01,3
+506665,NYCC01,,,5/5/2015,,,,,,
+506666,NYCC01,,,5/5/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
+506627,NYCC01,Education,,5/6/2015,5/15/2015,10013,Manhattan,New York,NYCC01,2
+506626,NYCC01,,,5/6/2015,,12345,,123456,,
+506628,NYCC01,Economy/Jobs,,5/7/2015,5/15/2015,10013,Manhattan,New York,NYCC01,1
+506630,NYCC01,Housing and Buildings,NYCHA Misc.,5/8/2015,1/11/2016,10038,Manhattan,New York,NYCC01,3
+506631,NYCC01,Housing and Buildings,Tenant Harassment,5/8/2015,,10007,Manhattan,New York,NYCC01,1
+506629,NYCC01,Parks,Off-Leash Hours (Dog),5/8/2015,5/15/2015,10002,Manhattan,New York,NYCC01,3
+506667,NYCC01,,,5/8/2015,,11368,Queens,Corona,NYCC21,4
+506642,NYCC01,,,5/8/2015,,10002,Manhattan,New York,NYCC01,3
+506632,NYCC01,Housing and Buildings,,5/9/2015,5/15/2015,11238,Brooklyn,Brooklyn,NYCC35,8
+506633,NYCC01,Housing and Buildings,,5/10/2015,5/15/2015,34951,,Fort Pierce,,
+506634,NYCC01,Public Safety,,5/10/2015,5/12/2015,10003,Manhattan,New York,NYCC02,2
+506636,NYCC01,Consumer Affairs,,5/11/2015,5/11/2015,10002,,410 Grand Street #3F,,
+506635,NYCC01,Transportation,,5/11/2015,,10004,Manhattan,New York,NYCC01,1
+506641,NYCC01,Housing and Buildings,Eviction,5/12/2015,,10013,Manhattan,New York,NYCC01,3
+506638,NYCC01,Transportation,,5/12/2015,5/12/2015,10075,Manhattan,New York,NYCC05,8
+506637,NYCC01,,,5/12/2015,5/12/2015,12345,,123456,,
+506644,NYCC01,Consumer Affairs,,5/13/2015,5/14/2015,10002,Manhattan,New York,NYCC01,3
+506643,NYCC01,General Welfare,Home Attendants,5/13/2015,5/13/2015,10002,Manhattan,New York,NYCC01,3
+506645,NYCC01,Quality of Life,Smoking,5/13/2015,11/24/2015,10002,Manhattan,New York,NYCC01,3
+506646,NYCC01,Governmental Operations,IDNYC,5/14/2015,5/14/2015,10002,Manhattan,New York,NYCC02,3
+506647,NYCC01,Transportation,,5/15/2015,5/15/2015,11361,Queens,Bayside,NYCC19,11
+506648,NYCC01,Transportation,,5/15/2015,,11361,Queens,Bayside,NYCC19,11
+506649,NYCC01,Transportation,,5/15/2015,,11361,Queens,Bayside,NYCC19,11
+506653,NYCC01,Consumer Complaints,,5/18/2015,,10002,Manhattan,New York,NYCC01,3
+506650,NYCC01,Economy/Jobs,Business Assistance,5/18/2015,6/11/2015,11530,,Garden City,NYCC,
+506651,NYCC01,Housing and Buildings,Eviction,5/18/2015,,10002,Manhattan,New York,NYCC01,3
+506655,NYCC01,Housing and Buildings,NYCHA Building Maintenance,5/18/2015,,10029,Manhattan,New York,NYCC05,11
+506652,NYCC01,Transportation,,5/18/2015,,10009,Manhattan,New York,NYCC02,3
+506654,NYCC01,,,5/18/2015,,10029,Manhattan,New York,NYCC05,11
+506656,NYCC01,Parks,,5/20/2015,,10005,Manhattan,New York,NYCC01,1
+506659,NYCC01,Transportation,,5/21/2015,,10003,Manhattan,New York,NYCC01,2
+506662,NYCC01,Economy/Jobs,,5/22/2015,,10280,Manhattan,New York,NYCC01,1
+506661,NYCC01,General Welfare,,5/22/2015,,10026,,Manhaten,,
+506660,NYCC01,,,5/22/2015,,12345,,123456,,
+506663,NYCC01,Parks,,5/25/2015,,10002,Manhattan,New York,NYCC01,3
+506669,NYCC01,Economy/Jobs,,5/27/2015,,10017,Manhattan,New York,NYCC04,6
+506693,NYCC01,Housing and Buildings,NYCHA New Application,5/27/2015,6/17/2015,,,,,
+506670,NYCC01,Housing and Buildings,NYCHA Transfers,5/27/2015,,10038,Manhattan,New York,NYCC01,3
+506671,NYCC01,Public Safety,,5/28/2015,,10038,Manhattan,New York,NYCC01,3
+506672,NYCC01,Consumer Complaints,,5/29/2015,,10012,Manhattan,New York,NYCC01,2
+506673,NYCC01,General Welfare,,5/31/2015,,10002,Manhattan,New York,NYCC01,3
+506674,NYCC01,Health,Hospital Facility or Clinic,6/1/2015,6/19/2015,27539,,Apex,,
+506675,NYCC01,,,6/1/2015,,12345,,123456,,
+506676,NYCC01,Aging,Senior Centers,6/3/2015,6/19/2015,11104,Queens,Sunnyside,NYCC26,2
+506677,NYCC01,Parks,,6/4/2015,,10038,Manhattan,New York,NYCC01,3
+506678,NYCC01,Housing and Buildings,,6/6/2015,,10038,Manhattan,New York,NYCC01,3
+506680,NYCC01,Aging,,6/8/2015,,10019,Manhattan,New York,NYCC04,5
+506679,NYCC01,Consumer Complaints,,6/8/2015,,10001,,New York,,
+506681,NYCC01,Economy/Jobs,Business Assistance,6/9/2015,6/11/2015,11530,,Garden City,NYCC,
+506682,NYCC01,Housing and Buildings,NYCHA Building Maintenance,6/9/2015,,10038,Manhattan,New York,NYCC01,3
+506684,NYCC01,Aging,,6/10/2015,,10038,Manhattan,New York,NYCC01,3
+506683,NYCC01,Governmental Operations,Census,6/10/2015,6/11/2015,10009,,Ny,,
+506685,NYCC01,Transportation,,6/11/2015,,10009,Manhattan,New York,NYCC02,3
+506686,NYCC01,Education,Tutoring Services,6/12/2015,6/12/2015,11214,Brooklyn,Brooklyn,NYCC47,11
+506691,NYCC01,Cultural Affairs,Community Based Organization,6/15/2015,6/19/2015,11215,Brooklyn,Brooklyn,NYCC39,7
+506688,NYCC01,Health,Animal Care/Wild Animal,6/15/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
+506687,NYCC01,Housing and Buildings,Building Maintenance,6/15/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
+506689,NYCC01,Housing and Buildings,Hoarding,6/15/2015,,10002,Manhattan,New York,NYCC01,3
+506914,NYCC01,Housing and Buildings,NYCHA New Application,6/16/2015,12/4/2015,10012,Manhattan,New York,NYCC01,2
+506692,NYCC01,Public Safety,Community Policing,6/16/2015,6/19/2015,10022,Manhattan,New York,NYCC04,6
+506695,NYCC01,Consumer Complaints,,6/17/2015,,11373,Queens,Elmhurst,NYCC25,4
+506694,NYCC01,Housing and Buildings,Building Maintenance,6/17/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+506697,NYCC01,Transportation,Carriage Horses,6/17/2015,6/19/2015,14075,,Hamburg,NYCC,
+506696,NYCC01,Transportation,,6/17/2015,,14075,,Hamburg,NYCC,
+506699,NYCC01,Economy/Jobs,Business Assistance,6/18/2015,6/19/2015,12345,,123456,,
+507045,NYCC01,Housing and Buildings,Lease Issue,6/18/2015,,10013,Manhattan,New York,NYCC01,3
+506698,NYCC01,Transportation,Pedestrian Safety,6/18/2015,6/19/2015,10002,Manhattan,New York,NYCC02,3
+506700,NYCC01,Transportation,,6/19/2015,,10038,Manhattan,New York,NYCC01,1
+506701,NYCC01,Immigration,,6/20/2015,,10001,,New York,,
+506702,NYCC01,Housing and Buildings,,6/21/2015,,10001,,New York,,
+506703,NYCC01,Sanitation,,6/21/2015,,10001,,New York,,
+506706,NYCC01,Finance,,6/22/2015,,10001,,New York,,
+506705,NYCC01,Housing and Buildings,NYCHA Misc.,6/22/2015,6/22/2015,10002,Manhattan,New York,NYCC01,3
+506704,NYCC01,Parks,,6/22/2015,,10005,Manhattan,New York,NYCC01,1
+506709,NYCC01,Aging,Elder Abuse,6/23/2015,9/21/2015,10002,Manhattan,New York,NYCC01,3
+506707,NYCC01,Finance,,6/23/2015,,10001,,New York,,
+506710,NYCC01,Housing and Buildings,,6/23/2015,,10001,,New York,,
+506711,NYCC01,Utilities,,6/23/2015,,10001,,New York,,
+506713,NYCC01,Consumer Complaints,,6/24/2015,,10012,Manhattan,New York,NYCC01,2
+506868,NYCC01,Housing and Buildings,Eviction,6/24/2015,,10002,Manhattan,New York,NYCC01,3
+506714,NYCC01,Transportation,,6/24/2015,,10007,Manhattan,New York,NYCC01,1
+506712,NYCC01,,,6/24/2015,,12345,,123456,,
+506863,NYCC01,Housing and Buildings,Eviction,6/25/2015,,,,,,
+506721,NYCC01,Finance,,6/26/2015,,10001,,New York,,
+506719,NYCC01,Immigration,,6/26/2015,,10001,,New York,,
+506717,NYCC01,,Eviction,6/26/2015,,10002,Manhattan,New York,NYCC01,3
+506715,NYCC01,,,6/26/2015,,12345,,123456,,
+506720,NYCC01,,,6/26/2015,,12345,,123456,,
+506723,NYCC01,Education,,6/27/2015,,10305,Staten Island,Staten Island,NYCC50,2
+506722,NYCC01,Environment,,6/27/2015,,10012,Manhattan,New York,NYCC01,2
+506724,NYCC01,Finance,,6/27/2015,,10001,,New York,,
+506727,NYCC01,General Welfare,,6/28/2015,,10001,,New York,,
+506728,NYCC01,General Welfare,,6/28/2015,,10001,,New York,,
+506725,NYCC01,Land Use and Zoning,,6/28/2015,,10001,,New York,,
+506726,NYCC01,Parks,,6/28/2015,,10005,Manhattan,New York,NYCC01,1
+506732,NYCC01,Aging,,6/29/2015,,10024,,New Yoi,,
+506729,NYCC01,Finance,,6/29/2015,,10012,Manhattan,New York,NYCC01,2
+506730,NYCC01,General Welfare,,6/29/2015,,10013,Manhattan,New York,NYCC01,1
+506731,NYCC01,General Welfare,,6/29/2015,,10013,Manhattan,New York,NYCC01,1
+506733,NYCC01,Cultural Affairs,,6/30/2015,,10036,Manhattan,New York,NYCC04,5
+506734,NYCC01,Transportation,,7/1/2015,,10004,Manhattan,New York,NYCC01,1
+506735,NYCC01,Housing and Buildings,,7/2/2015,,10002,Manhattan,New York,NYCC01,3
+506736,NYCC01,,,7/2/2015,,Jacqu,,Jacqueline,,
 506737,NYCC01,Consumer Complaints,,7/3/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
+506738,NYCC01,Economy/Jobs,,7/3/2015,,10001,,New York,,
+506740,NYCC01,Education,,7/4/2015,,10001,,New York,,
+506739,NYCC01,Transportation,,7/4/2015,,10001,,New York,,
+506744,NYCC01,Finance,,7/5/2015,,10001,,New York,,
+506745,NYCC01,Finance,,7/5/2015,,10001,,New York,,
+506741,NYCC01,Utilities,,7/5/2015,,10001,,New York,,
+506742,NYCC01,Utilities,,7/5/2015,,10001,,New York,,
+506743,NYCC01,Utilities,,7/5/2015,,10001,,New York,,
+506746,NYCC01,Environment,Air Quality,7/6/2015,7/6/2015,10009,,New York,,
+506747,NYCC01,Finance,,7/6/2015,,10001,,New York,,
 506750,NYCC01,Consumer Complaints,,7/7/2015,,11220,,Brooklyn,,
 506751,NYCC01,Consumer Complaints,,7/7/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
 506752,NYCC01,Consumer Complaints,,7/7/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
 506757,NYCC01,Consumer Complaints,,7/7/2015,,10013,Manhattan,New York,NYCC01,2
-506773,NYCC01,Consumer Complaints,,7/8/2015,,11220,Brooklyn,Brooklyn,NYCC38,12
-506774,NYCC01,Consumer Complaints,,7/8/2015,,10002,Manhattan,New York,NYCC01,3
-506775,NYCC01,Consumer Complaints,,7/8/2015,,10002,Manhattan,New York,NYCC01,3
-506816,NYCC01,Consumer Complaints,,7/17/2015,,10038,Manhattan,New York,NYCC01,3
-507064,NYCC01,Consumer Complaints,,9/18/2015,,10002,Manhattan,New York,NYCC01,3
-507069,NYCC01,Consumer Complaints,,9/19/2015,,10002,Manhattan,New York,NYCC01,3
-507444,NYCC01,Cultural Affairs,Community Based Organization,12/28/2015,12/30/2015,10007,Manhattan,New York,NYCC01,1
-507264,NYCC01,Cultural Affairs,Museums,11/10/2015,11/13/2015,10007,Manhattan,New York,NYCC01,1
-506856,NYCC01,Cultural Affairs,,7/22/2015,,10013,Manhattan,New York,NYCC01,1
-506882,NYCC01,Cultural Affairs,,7/28/2015,,10038,Manhattan,New York,NYCC01,1
-506927,NYCC01,Cultural Affairs,,8/7/2015,,11103,Queens,Astoria,NYCC22,1
-507063,NYCC01,Cultural Affairs,,9/18/2015,,10002,Manhattan,New York,NYCC01,3
-507130,NYCC01,Cultural Affairs,,10/10/2015,,10013,Manhattan,New York,NYCC01,2
-507135,NYCC01,Cultural Affairs,,10/14/2015,,10013,Manhattan,New York,NYCC01,1
-507408,NYCC01,Economy/Jobs,Business Assistance,12/16/2015,,10013,Manhattan,New York,NYCC01,2
-507344,NYCC01,Economy/Jobs,Letter of Rec./Referral,11/24/2015,11/24/2015,10038,,New York,,
-507022,NYCC01,Economy/Jobs,Seeking Employment,7/27/2015,9/9/2015,10038,Manhattan,New York,NYCC01,3
-507407,NYCC01,Economy/Jobs,Seeking Employment,9/28/2015,,10002,Manhattan,New York,NYCC01,3
-506738,NYCC01,Economy/Jobs,,7/3/2015,,10001,,New York,,
-506847,NYCC01,Economy/Jobs,,7/21/2015,,10038,,New York,,
-506939,NYCC01,Economy/Jobs,,8/10/2015,,10119,,Ny,,
-507018,NYCC01,Economy/Jobs,,8/25/2015,,11385,Queens,Glendale,NYCC30,5
-507117,NYCC01,Economy/Jobs,,10/2/2015,,11377,Queens,Woodside,NYCC26,2
-507384,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507385,NYCC01,Economy/Jobs,,12/9/2015,,10017,Manhattan,New York,NYCC04,5
-507386,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507387,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507388,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507389,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507390,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507391,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507392,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507393,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507394,NYCC01,Economy/Jobs,,12/9/2015,,10017,Manhattan,New York,NYCC04,5
-507395,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
-507212,NYCC01,Education,Adult Education,10/29/2015,,,,,,
-507197,NYCC01,Education,ESL,10/27/2015,,10038,Manhattan,New York,NYCC01,3
-507198,NYCC01,Education,ESL,10/27/2015,,11237,Brooklyn,Brooklyn,NYCC37,4
-507365,NYCC01,Education,School Maintenance,12/4/2015,12/16/2015,10012,,New York,,
-507358,NYCC01,Education,School Registration/Placement,12/1/2015,,10002,Manhattan,New York,NYCC01,3
-506957,NYCC01,Education,Transfers,8/13/2015,12/15/2015,10038,Manhattan,New York,NYCC01,1
-507061,NYCC01,Education,Transfers,9/17/2015,12/2/2015,10002,Manhattan,New York,NYCC01,3
-506740,NYCC01,Education,,7/4/2015,,10001,,New York,,
-507002,NYCC01,Education,,8/21/2015,,10005,Manhattan,New York,NYCC01,1
-507003,NYCC01,Education,,8/21/2015,,10005,Manhattan,New York,NYCC01,1
-507019,NYCC01,Education,,8/26/2015,,10024,Manhattan,New York,NYCC06,7
-507104,NYCC01,Education,,9/25/2015,,10002,Manhattan,New York,NYCC01,3
-507128,NYCC01,Education,,10/8/2015,,10002,Manhattan,New York,NYCC01,3
-507136,NYCC01,Education,,10/14/2015,,10025,Manhattan,New York,NYCC06,7
-507139,NYCC01,Education,,10/16/2015,,11215,Brooklyn,Brooklyn,NYCC39,6
-507286,NYCC01,Education,,11/16/2015,,10009,Manhattan,New York,NYCC02,3
-507418,NYCC01,Education,,12/17/2015,,10040,Manhattan,New York,NYCC10,12
-507431,NYCC01,Education,,12/22/2015,,10002,Manhattan,New York,NYCC01,3
-506746,NYCC01,Environment,Air Quality,7/6/2015,7/6/2015,10009,,New York,,
-506796,NYCC01,Environment,Air Quality,7/13/2015,7/27/2015,10002,Manhattan,New York,NYCC02,3
-506818,NYCC01,Environment,Air Quality,7/17/2015,11/24/2015,10012,Manhattan,New York,NYCC01,2
-506883,NYCC01,Environment,Air Quality,7/28/2015,,10280,Manhattan,New York,NYCC01,1
-507475,NYCC01,Environment,Air Quality,12/30/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
 506753,NYCC01,Environment,,7/7/2015,,10001,,New York,,
 506754,NYCC01,Environment,,7/7/2015,,10014,Manhattan,New York,NYCC03,2
 506758,NYCC01,Environment,,7/7/2015,,10001,,New York,,
 506761,NYCC01,Environment,,7/7/2015,,10001,,New York,,
-506768,NYCC01,Environment,,7/8/2015,,10001,,New York,,
-506852,NYCC01,Environment,,7/22/2015,,11218,Brooklyn,Brooklyn,NYCC39,7
-507191,NYCC01,Environment,,10/26/2015,,10024,Manhattan,New York,NYCC06,7
-507227,NYCC01,Environment,,11/2/2015,,11224,Brooklyn,Brooklyn,NYCC47,13
-507469,NYCC01,Finance,Parking Violation,12/30/2015,12/30/2015,10013,,New York,,
-507192,NYCC01,Finance,SCRIE,10/26/2015,10/26/2015,10002,Manhattan,New York,NYCC01,3
-507421,NYCC01,Finance,SCRIE,12/17/2015,,10002,Manhattan,New York,NYCC01,3
-507342,NYCC01,Finance,Tax Assessments,11/24/2015,11/24/2015,10012,,New York,,
-506880,NYCC01,Finance,Tax Exemption,7/28/2015,,10007,Manhattan,New York,NYCC01,1
-507031,NYCC01,Finance,Tax Exemption,8/28/2015,12/17/2015,10002,Manhattan,New York,NYCC01,3
-507422,NYCC01,Finance,Tax Exemption,12/17/2015,12/17/2015,10002,,,,
-506744,NYCC01,Finance,,7/5/2015,,10001,,New York,,
-506745,NYCC01,Finance,,7/5/2015,,10001,,New York,,
-506747,NYCC01,Finance,,7/6/2015,,10001,,New York,,
 506755,NYCC01,Finance,,7/7/2015,,10001,,New York,,
 506760,NYCC01,Finance,,7/7/2015,,10001,,New York,,
+506762,NYCC01,Housing and Buildings,NYCHA New Application,7/7/2015,7/7/2015,10002,Manhattan,New York,NYCC02,3
+506756,NYCC01,Immigration,,7/7/2015,,10001,,New York,,
+506759,NYCC01,Land Use and Zoning,,7/7/2015,,10029,Manhattan,New York,NYCC04,11
+506764,NYCC01,Aging,,7/8/2015,,11214,Brooklyn,Brooklyn,NYCC47,11
+506765,NYCC01,Aging,,7/8/2015,,,,,,
+506773,NYCC01,Consumer Complaints,,7/8/2015,,11220,Brooklyn,Brooklyn,NYCC38,12
+506774,NYCC01,Consumer Complaints,,7/8/2015,,10002,Manhattan,New York,NYCC01,3
+506775,NYCC01,Consumer Complaints,,7/8/2015,,10002,Manhattan,New York,NYCC01,3
+506768,NYCC01,Environment,,7/8/2015,,10001,,New York,,
+506772,NYCC01,Health,Disability Services,7/8/2015,,,,,,
+506798,NYCC01,Health,,7/8/2015,,10038,Manhattan,New York,NYCC01,1
+506769,NYCC01,Housing and Buildings,Section 8,7/8/2015,,,,,,
+506763,NYCC01,Parks,,7/8/2015,,10007,Manhattan,New York,NYCC01,1
 506776,NYCC01,Finance,,7/9/2015,,10001,,New York,,
 506777,NYCC01,Finance,,7/9/2015,,10001,,New York,,
+506864,NYCC01,Housing and Buildings,Eviction,7/9/2015,,10002,Manhattan,New York,NYCC01,3
+506797,NYCC01,Housing and Buildings,Eviction,7/9/2015,,10002,Manhattan,New York,NYCC01,3
+507247,NYCC01,Housing and Buildings,Lease Issue,7/9/2015,,,,,,
+507246,NYCC01,Housing and Buildings,Lease Issue,7/9/2015,,,,,,
+507248,NYCC01,Housing and Buildings,Lease Issue,7/9/2015,,,,,,
+506866,NYCC01,Housing and Buildings,Tenant Harassment,7/9/2015,,,,,,
 506785,NYCC01,Finance,,7/11/2015,,10001,,New York,,
 506786,NYCC01,Finance,,7/11/2015,,10001,,New York,,
 506787,NYCC01,Finance,,7/11/2015,,10001,,New York,,
+506790,NYCC01,Aging,,7/12/2015,,10039,,Manhattan,,
+506791,NYCC01,Aging,,7/12/2015,,10039,,Nyc,,
 506788,NYCC01,Finance,,7/12/2015,,10001,,New York,,
 506789,NYCC01,Finance,,7/12/2015,,10001,,New York,,
 506792,NYCC01,Finance,,7/12/2015,,10001,,New York,,
+506794,NYCC01,Aging,,7/13/2015,,10039,,Manhattan,,
+506796,NYCC01,Environment,Air Quality,7/13/2015,7/27/2015,10002,Manhattan,New York,NYCC02,3
 506795,NYCC01,Finance,,7/13/2015,,10001,,New York,,
 506799,NYCC01,Finance,,7/13/2015,,10004,Manhattan,New York,NYCC01,1
+506793,NYCC01,General Welfare,Public Assistance,7/13/2015,,10039,,Manhattan,,
+507302,NYCC01,Legal Services,Misc (Wills/Court Docs/etc.),7/13/2015,,10002,Manhattan,New York,NYCC02,3
+506800,NYCC01,Transportation,,7/13/2015,,10012,Manhattan,New York,NYCC01,2
 506802,NYCC01,Finance,,7/14/2015,,10001,,New York,,
 506804,NYCC01,Finance,,7/14/2015,,10001,,New York,,
+506805,NYCC01,Health,,7/14/2015,,10003,Manhattan,New York,NYCC02,3
+506803,NYCC01,Transportation,,7/14/2015,,10013,Manhattan,New York,NYCC01,2
+506801,NYCC01,,,7/14/2015,,12345,,123456,,
 506807,NYCC01,Finance,,7/15/2015,,10001,,New York,,
 506808,NYCC01,Finance,,7/15/2015,,10001,,New York,,
 506809,NYCC01,Finance,,7/15/2015,,10001,,New York,,
 506810,NYCC01,Finance,,7/15/2015,,10001,,New York,,
+507028,NYCC01,Sanitation,Dirty Sidewalk,7/15/2015,8/27/2015,10013,Manhattan,New York,NYCC01,2
+506806,NYCC01,Transportation,Pot Holes,7/15/2015,11/23/2015,10003,Manhattan,New York,NYCC01,2
 506811,NYCC01,Finance,,7/16/2015,,10001,,New York,,
 506813,NYCC01,Finance,,7/16/2015,,10001,,New York,,
 506815,NYCC01,Finance,,7/16/2015,,10001,,New York,,
+507120,NYCC01,Housing and Buildings,Construction General,7/16/2015,10/5/2015,10002,Manhattan,New York,NYCC01,3
+506814,NYCC01,Transportation,,7/16/2015,,10156,,New York,,
+506812,NYCC01,Utilities,Con Edison,7/16/2015,7/16/2015,10462,Bronx,Bronx,NYCC13,11
+506816,NYCC01,Consumer Complaints,,7/17/2015,,10038,Manhattan,New York,NYCC01,3
+506818,NYCC01,Environment,Air Quality,7/17/2015,11/24/2015,10012,Manhattan,New York,NYCC01,2
 506817,NYCC01,Finance,,7/17/2015,,10001,,New York,,
+506819,NYCC01,Transportation,,7/18/2015,,10002,Manhattan,New York,NYCC01,3
+506820,NYCC01,Transportation,,7/18/2015,,10314,Staten Island,Staten Island,NYCC50,1
+506821,NYCC01,Transportation,,7/18/2015,,10002,Manhattan,New York,NYCC01,3
+506822,NYCC01,Transportation,,7/18/2015,,10011,Manhattan,New York,NYCC01,2
+506825,NYCC01,Aging,,7/19/2015,,10002,Manhattan,New York,NYCC01,3
+506823,NYCC01,Transportation,,7/19/2015,,10005,Manhattan,New York,NYCC01,1
+506824,NYCC01,Transportation,,7/19/2015,,10013,Manhattan,New York,NYCC01,1
+506826,NYCC01,Transportation,,7/19/2015,,10002,Manhattan,New York,NYCC01,3
+506827,NYCC01,Transportation,,7/19/2015,,10013,Manhattan,New York,NYCC01,1
+506828,NYCC01,Transportation,,7/19/2015,,10012,Manhattan,New York,NYCC01,2
 506832,NYCC01,Finance,,7/20/2015,,10001,,New York,,
 506833,NYCC01,Finance,,7/20/2015,,10001,,New York,,
 506835,NYCC01,Finance,,7/20/2015,,10001,,New York,,
 506837,NYCC01,Finance,,7/20/2015,,10001,,New York,,
 506840,NYCC01,Finance,,7/20/2015,,10001,,New York,,
+506838,NYCC01,Housing and Buildings,NYCHA Building Maintenance,7/20/2015,8/4/2015,10002,Manhattan,New York,NYCC01,3
+506834,NYCC01,Housing and Buildings,,7/20/2015,,10038,Manhattan,New York,NYCC01,3
+506830,NYCC01,Quality of Life,Noise - Other,7/20/2015,7/28/2015,,,,,
+506829,NYCC01,Quality of Life,Noise- Street/Sidewalk,7/20/2015,8/27/2015,10007,Manhattan,New York,NYCC01,1
+506831,NYCC01,Transportation,,7/20/2015,,10002,Manhattan,New York,NYCC02,3
+506841,NYCC01,Transportation,,7/20/2015,,10013,Manhattan,New York,NYCC01,1
+506847,NYCC01,Economy/Jobs,,7/21/2015,,10038,,New York,,
 506842,NYCC01,Finance,,7/21/2015,,10001,,New York,,
 506843,NYCC01,Finance,,7/21/2015,,10001,,New York,,
 506844,NYCC01,Finance,,7/21/2015,,10001,,New York,,
+506849,NYCC01,Housing and Buildings,NYCHA Building Maintenance,7/21/2015,,10002,Manhattan,New York,NYCC01,3
+506851,NYCC01,Housing and Buildings,,7/21/2015,,10012,Manhattan,New York,NYCC01,2
+506845,NYCC01,Transportation,,7/21/2015,,10280,Manhattan,New York,NYCC01,1
+506846,NYCC01,Transportation,,7/21/2015,,10007,Manhattan,New York,NYCC01,1
+506848,NYCC01,Transportation,,7/21/2015,,10023,Manhattan,New York,NYCC06,7
+506850,NYCC01,Transportation,,7/21/2015,,10013,Manhattan,New York,NYCC01,1
+506856,NYCC01,Cultural Affairs,,7/22/2015,,10013,Manhattan,New York,NYCC01,1
+506852,NYCC01,Environment,,7/22/2015,,11218,Brooklyn,Brooklyn,NYCC39,7
 506857,NYCC01,Finance,,7/22/2015,,10001,,New York,,
 506859,NYCC01,Finance,,7/22/2015,,10001,,New York,,
+507253,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,7/22/2015,,10012,Manhattan,New York,NYCC01,2
+506853,NYCC01,Parks,Stump Removal,7/22/2015,10/29/2015,10002,Manhattan,New York,NYCC01,3
+506854,NYCC01,Transportation,,7/22/2015,,10012,Manhattan,New York,NYCC01,2
+506858,NYCC01,Transportation,,7/22/2015,,10002,Manhattan,New York,NYCC01,3
+506860,NYCC01,Transportation,,7/22/2015,,10012,Manhattan,New York,NYCC01,2
+506869,NYCC01,Governmental Operations ,,7/23/2015,,10038,Manhattan,New York,NYCC01,3
+506861,NYCC01,Housing and Buildings,Eviction,7/23/2015,,,,,,
+506862,NYCC01,,,7/23/2015,,Donna,,Donna,,
 506871,NYCC01,Finance,,7/24/2015,,10001,,New York,,
 506874,NYCC01,Finance,,7/24/2015,,10001,,New York,,
+506870,NYCC01,Public Safety,,7/24/2015,,10280,Manhattan,New York,NYCC01,1
+506872,NYCC01,Public Safety,,7/24/2015,,10280,Manhattan,New York,NYCC01,1
+506873,NYCC01,Quality of Life,Noise - Other,7/24/2015,11/24/2015,10002,Manhattan,New York,NYCC01,3
 506875,NYCC01,Finance,,7/26/2015,,10001,,New York,,
 506876,NYCC01,Finance,,7/26/2015,,10001,,New York,,
+506877,NYCC01,Public Safety,,7/26/2015,,10014,Manhattan,New York,NYCC03,2
+507022,NYCC01,Economy/Jobs,Seeking Employment,7/27/2015,9/9/2015,10038,Manhattan,New York,NYCC01,3
 506878,NYCC01,Finance,,7/27/2015,,10001,,New York,,
+506886,NYCC01,Housing and Buildings,Eviction,7/27/2015,9/4/2015,10002,Manhattan,New York,NYCC01,3
+506882,NYCC01,Cultural Affairs,,7/28/2015,,10038,Manhattan,New York,NYCC01,1
+506883,NYCC01,Environment,Air Quality,7/28/2015,,10280,Manhattan,New York,NYCC01,1
+506880,NYCC01,Finance,Tax Exemption,7/28/2015,,10007,Manhattan,New York,NYCC01,1
 506881,NYCC01,Finance,,7/28/2015,,10001,,New York,,
 506884,NYCC01,Finance,,7/28/2015,,10001,,New York,,
 506887,NYCC01,Finance,,7/28/2015,,10001,,New York,,
+506879,NYCC01,Housing and Buildings,,7/28/2015,,10013,Manhattan,New York,NYCC01,2
+506885,NYCC01,Utilities,Con Edison,7/28/2015,10/7/2015,,,,,
 506888,NYCC01,Finance,,7/29/2015,,10001,,New York,,
 506889,NYCC01,Finance,,7/29/2015,,10001,,New York,,
 506890,NYCC01,Finance,,7/29/2015,,10001,,New York,,
+506891,NYCC01,Housing and Buildings,Senior Housing,7/29/2015,12/17/2015,10002,Manhattan,New York,NYCC01,3
+507077,NYCC01,Human and Civil Rights,Racial Bias,7/29/2015,12/15/2015,,,,,
 506892,NYCC01,Finance,,7/30/2015,,10001,,New York,,
+507251,NYCC01,Housing and Buildings,NYCHA Misc.,7/30/2015,,10002,Manhattan,New York,NYCC01,3
 506893,NYCC01,Finance,,7/31/2015,,10001,,New York,,
 506894,NYCC01,Finance,,7/31/2015,,10001,,New York,,
 506895,NYCC01,Finance,,7/31/2015,,10001,,New York,,
 506899,NYCC01,Finance,,7/31/2015,,10001,,New York,,
+506897,NYCC01,,,7/31/2015,,11232,Brooklyn,Brooklyn,NYCC38,12
+506903,NYCC01,Aging,,8/2/2015,,10002,Manhattan,New York,NYCC01,3
 506901,NYCC01,Finance,,8/2/2015,,10001,,New York,,
 506902,NYCC01,Finance,,8/2/2015,,10001,,New York,,
+506900,NYCC01,,,8/2/2015,,Donna,,Donna,,
 506904,NYCC01,Finance,,8/3/2015,,10001,,New York,,
 506905,NYCC01,Finance,,8/3/2015,,10001,,New York,,
 506906,NYCC01,Finance,,8/4/2015,,10001,,New York,,
@@ -172,13 +517,20 @@ Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough
 506910,NYCC01,Finance,,8/4/2015,,10001,,New York,,
 506911,NYCC01,Finance,,8/4/2015,,10001,,New York,,
 506912,NYCC01,Finance,,8/4/2015,,10001,,New York,,
+506995,NYCC01,Housing and Buildings,Eviction,8/4/2015,12/9/2015,10002,Manhattan,New York,NYCC01,3
 506913,NYCC01,Finance,,8/5/2015,,10001,,New York,,
 506916,NYCC01,Finance,,8/5/2015,,10001,,New York,,
+506915,NYCC01,Housing and Buildings,NYCHA Transfers,8/5/2015,,10002,,New York,NYCC,
 506917,NYCC01,Finance,,8/6/2015,,10001,,New York,,
 506919,NYCC01,Finance,,8/6/2015,,10001,,New York,,
 506920,NYCC01,Finance,,8/6/2015,,10001,,New York,,
 506921,NYCC01,Finance,,8/6/2015,,10001,,New York,,
 506922,NYCC01,Finance,,8/6/2015,,10001,,New York,,
+506994,NYCC01,Housing and Buildings,Eviction,8/6/2015,12/9/2015,10002,Manhattan,New York,NYCC01,3
+506996,NYCC01,Housing and Buildings,Eviction,8/6/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
+507252,NYCC01,Housing and Buildings,Eviction,8/6/2015,,,,,,
+506918,NYCC01,Housing and Buildings,Rent Increases,8/6/2015,,10013,Manhattan,New York,NYCC01,1
+506927,NYCC01,Cultural Affairs,,8/7/2015,,11103,Queens,Astoria,NYCC22,1
 506923,NYCC01,Finance,,8/7/2015,,10001,,New York,,
 506924,NYCC01,Finance,,8/7/2015,,10001,,New York,,
 506925,NYCC01,Finance,,8/7/2015,,10001,,New York,,
@@ -186,13 +538,22 @@ Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough
 506928,NYCC01,Finance,,8/7/2015,,10001,,New York,,
 506929,NYCC01,Finance,,8/7/2015,,10001,,New York,,
 506930,NYCC01,Finance,,8/7/2015,,10001,,New York,,
+506931,NYCC01,Youth Services,,8/9/2015,,10002,Manhattan,New York,NYCC01,3
+506939,NYCC01,Economy/Jobs,,8/10/2015,,10119,,Ny,,
 506932,NYCC01,Finance,,8/10/2015,,10001,,New York,,
 506935,NYCC01,Finance,,8/10/2015,,10001,,New York,,
 506937,NYCC01,Finance,,8/10/2015,,10001,,New York,,
 506938,NYCC01,Finance,,8/10/2015,,10001,,New York,,
+506934,NYCC01,Governmental Operations,IDNYC,8/10/2015,8/19/2015,,,,,
+506933,NYCC01,Utilities,,8/10/2015,,10001,Manhattan,New York,NYCC03,4
+506936,NYCC01,Utilities,,8/10/2015,,10012,Manhattan,New York,NYCC01,2
 506943,NYCC01,Finance,,8/11/2015,,10001,,New York,,
 506945,NYCC01,Finance,,8/11/2015,,10001,,New York,,
 506946,NYCC01,Finance,,8/11/2015,,10001,,New York,,
+506941,NYCC01,Housing and Buildings,,8/11/2015,,10013,Manhattan,New York,NYCC01,2
+506942,NYCC01,Housing and Buildings,,8/11/2015,,10013,Manhattan,New York,NYCC01,1
+506944,NYCC01,Housing and Buildings,,8/11/2015,,10012,Manhattan,New York,NYCC01,2
+506947,NYCC01,Transportation,Parking Permits,8/11/2015,8/26/2015,10002,Manhattan,New York,NYCC01,3
 506948,NYCC01,Finance,,8/12/2015,,10001,,New York,,
 506949,NYCC01,Finance,,8/12/2015,,10001,,New York,,
 506950,NYCC01,Finance,,8/12/2015,,10001,,New York,,
@@ -202,11 +563,15 @@ Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough
 506954,NYCC01,Finance,,8/12/2015,,10001,,New York,,
 506955,NYCC01,Finance,,8/12/2015,,10001,,New York,,
 506956,NYCC01,Finance,,8/12/2015,,10001,,New York,,
+506957,NYCC01,Education,Transfers,8/13/2015,12/15/2015,10038,Manhattan,New York,NYCC01,1
 506959,NYCC01,Finance,,8/14/2015,,10001,,New York,,
 506960,NYCC01,Finance,,8/14/2015,,10001,,New York,,
+506958,NYCC01,General Welfare,Food Stamps,8/14/2015,9/16/2015,10002,Manhattan,New York,NYCC01,3
+506991,NYCC01,Human and Civil Rights,Ethnic Bias,8/14/2015,8/27/2015,11228,Brooklyn,Brooklyn,NYCC43,11
 506961,NYCC01,Finance,,8/15/2015,,10001,,New York,,
 506962,NYCC01,Finance,,8/15/2015,,10001,,New York,,
 506963,NYCC01,Finance,,8/15/2015,,10001,,New York,,
+506964,NYCC01,General Welfare,,8/15/2015,,10002,Manhattan,New York,NYCC01,3
 506965,NYCC01,Finance,,8/16/2015,,10001,,New York,,
 506966,NYCC01,Finance,,8/16/2015,,10001,,New York,,
 506967,NYCC01,Finance,,8/17/2015,,10001,,New York,,
@@ -222,130 +587,104 @@ Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough
 506981,NYCC01,Finance,,8/17/2015,,10001,,New York,,
 506982,NYCC01,Finance,,8/17/2015,,10001,,New York,,
 506983,NYCC01,Finance,,8/17/2015,,10001,,New York,,
+506973,NYCC01,Housing and Buildings,Tenant Harassment,8/17/2015,8/17/2015,10280,Manhattan,New York,NYCC01,1
+506972,NYCC01,Parks,Parks Permits and Applications,8/17/2015,,,,,,
+506970,NYCC01,,,8/17/2015,,10038,Manhattan,New York,NYCC01,3
+506986,NYCC01,General Welfare,Homeless Shelter - DHS,8/18/2015,,,,,,
+506987,NYCC01,Housing and Buildings,Lease Issue,8/18/2015,12/4/2015,10002,Manhattan,New York,NYCC01,3
+506984,NYCC01,Housing and Buildings,Rent Reductions,8/18/2015,8/18/2015,10002,Manhattan,New York,NYCC01,3
+506985,NYCC01,Quality of Life,Noise - Residential,8/18/2015,10/7/2015,10002,Manhattan,New York,NYCC01,3
+506990,NYCC01,General Welfare,Adult Protective Services,8/19/2015,,10038,Manhattan,New York,NYCC01,1
+506989,NYCC01,Governmental Operations,DMV,8/19/2015,8/19/2015,,,,,
+507254,NYCC01,Health,Rats/Rodents,8/19/2015,,10013,Manhattan,New York,NYCC01,1
+506992,NYCC01,Housing and Buildings,HPD Housing Lottery,8/19/2015,,10016,Manhattan,New York,NYCC04,6
+506993,NYCC01,Transportation,Parking Restrictions,8/19/2015,10/7/2015,10002,Manhattan,New York,NYCC01,3
+506988,NYCC01,Transportation,Parking Signs,8/19/2015,,10002,Manhattan,New York,NYCC01,3
+507000,NYCC01,Governmental Operations ,,8/20/2015,,10280,,New York,,
+506998,NYCC01,Parks,Park Maintenance,8/20/2015,8/26/2015,10002,Manhattan,New York,NYCC01,3
+506997,NYCC01,Transportation,Parking Restrictions,8/20/2015,,10002,Manhattan,New York,NYCC01,3
+506999,NYCC01,Transportation,Traffic Congestion,8/20/2015,10/7/2015,10012,Manhattan,New York,NYCC01,2
+507002,NYCC01,Education,,8/21/2015,,10005,Manhattan,New York,NYCC01,1
+507003,NYCC01,Education,,8/21/2015,,10005,Manhattan,New York,NYCC01,1
 507004,NYCC01,Finance,,8/21/2015,,10001,,New York,,
+507001,NYCC01,Parks,Parks Permits and Applications,8/21/2015,8/21/2015,10301,Staten Island,Staten Island,NYCC49,1
+507076,NYCC01,Quality of Life,Noise - Residential,8/21/2015,12/29/2015,,,,,
+507008,NYCC01,Parks,,8/22/2015,,11434,Queens,Jamaica,NYCC28,12
+507010,NYCC01,Housing and Buildings,Section 8,8/24/2015,12/9/2015,10013,Manhattan,New York,NYCC01,1
+507009,NYCC01,Parks,Park Maintenance,8/24/2015,8/24/2015,10011,Manhattan,New York,NYCC03,2
+507015,NYCC01,Transportation,Street Signs,8/24/2015,10/7/2015,10002,Manhattan,New York,NYCC01,3
+507018,NYCC01,Economy/Jobs,,8/25/2015,,11385,Queens,Glendale,NYCC30,5
 507016,NYCC01,Finance,,8/25/2015,,10001,,New York,,
 507017,NYCC01,Finance,,8/25/2015,,10001,,New York,,
-506990,NYCC01,General Welfare,Adult Protective Services,8/19/2015,,10038,Manhattan,New York,NYCC01,1
-506958,NYCC01,General Welfare,Food Stamps,8/14/2015,9/16/2015,10002,Manhattan,New York,NYCC01,3
-507472,NYCC01,General Welfare,Food Stamps,12/30/2015,12/30/2015,10002,,New York,,
-507420,NYCC01,General Welfare,HOMELESS ENCAMPMENT,12/14/2015,12/22/2015,,,,,
-507239,NYCC01,General Welfare,Home Attendants,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
-506986,NYCC01,General Welfare,Homeless Shelter - DHS,8/18/2015,,,,,,
-507238,NYCC01,General Welfare,Job Placement/Training/Education,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
-507169,NYCC01,General Welfare,Medicaid,10/22/2015,12/15/2015,10013,Manhattan,New York,NYCC01,1
-506793,NYCC01,General Welfare,Public Assistance,7/13/2015,,10039,,Manhattan,,
-507078,NYCC01,General Welfare,Public Assistance,9/22/2015,,10013,Manhattan,New York,NYCC01,2
-507102,NYCC01,General Welfare,Public Assistance,9/24/2015,12/17/2015,10038,Manhattan,New York,NYCC01,3
-507147,NYCC01,General Welfare,SSI and Social Security,10/19/2015,12/16/2015,10002,Manhattan,New York,NYCC01,3
-506964,NYCC01,General Welfare,,8/15/2015,,10002,Manhattan,New York,NYCC01,3
+507011,NYCC01,Housing and Buildings,Accessibility,8/25/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+507013,NYCC01,Housing and Buildings,Section 8,8/25/2015,8/25/2015,10002,Manhattan,New York,NYCC01,3
+507012,NYCC01,Parks,Park Maintenance,8/25/2015,,10002,Manhattan,New York,NYCC01,3
+507014,NYCC01,Transportation,,8/25/2015,,10002,Manhattan,New York,NYCC01,3
+507075,NYCC01,Civil Service and Labor,Hourly/Part-Time Wage Payments,8/26/2015,,10467,Bronx,Bronx,NYCC11,7
+507019,NYCC01,Education,,8/26/2015,,10024,Manhattan,New York,NYCC06,7
 507020,NYCC01,General Welfare,,8/26/2015,,10036,Manhattan,New York,NYCC03,5
 507029,NYCC01,General Welfare,,8/27/2015,,10065,Manhattan,New York,NYCC05,8
-507046,NYCC01,General Welfare,,9/4/2015,,10007,Manhattan,New York,NYCC01,1
-507074,NYCC01,General Welfare,,9/22/2015,,10002,Manhattan,New York,NYCC01,3
-507103,NYCC01,General Welfare,,9/25/2015,,10004,Manhattan,New York,NYCC01,1
-507175,NYCC01,General Welfare,,10/23/2015,,10012,Manhattan,New York,NYCC01,2
-507193,NYCC01,General Welfare,,10/26/2015,,,,,,
-507216,NYCC01,General Welfare,,10/29/2015,,10011,Manhattan,New York,NYCC01,2
-507241,NYCC01,General Welfare,,11/4/2015,,10007,Manhattan,New York,NYCC01,1
-507257,NYCC01,General Welfare,,11/10/2015,,10014,Manhattan,New York,NYCC03,2
-507360,NYCC01,General Welfare,,12/2/2015,,10002,Manhattan,New York,NYCC02,3
-506989,NYCC01,Governmental Operations,DMV,8/19/2015,8/19/2015,,,,,
-506934,NYCC01,Governmental Operations,IDNYC,8/10/2015,8/19/2015,,,,,
-507449,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,,,,,
-507455,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,,,,,
-507457,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,,,,,
-507458,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,,,,,
-507459,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,10013,,New York,,
-507450,NYCC01,Governmental Operations,IDNYC,12/22/2015,12/29/2015,10002,,NY,,
-507452,NYCC01,Governmental Operations,IDNYC,12/22/2015,12/29/2015,11220,,Brooklyn,,
-507446,NYCC01,Governmental Operations,IDNYC,12/27/2015,12/29/2015,10002,,New York,,
-507454,NYCC01,Governmental Operations,IDNYC,12/29/2015,12/29/2015,10016,,New York,,
-507460,NYCC01,Governmental Operations,IDNYC,12/29/2015,,10002,,New York,,
-507461,NYCC01,Governmental Operations,IDNYC,12/29/2015,12/29/2015,10001,,New York,,
-507236,NYCC01,Governmental Operations,Unclaimed Funds,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
-506869,NYCC01,Governmental Operations ,,7/23/2015,,10038,Manhattan,New York,NYCC01,3
-507000,NYCC01,Governmental Operations ,,8/20/2015,,10280,,New York,,
+507027,NYCC01,Housing and Buildings,Housing Discrimination,8/27/2015,,10012,Manhattan,New York,NYCC01,2
+507086,NYCC01,Housing and Buildings,NYCHA Building Maintenance,8/27/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
+507030,NYCC01,Housing and Buildings,Neighbor Dispute,8/27/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+507023,NYCC01,housing,tenant harassment,8/27/2015,,10002,Manhattan,New York,NYCC01,3
+507024,NYCC01,housing,tenant harrasment,8/27/2015,,10002,Manhattan,New York,NYCC01,3
+507025,NYCC01,,,8/27/2015,,10002,Manhattan,New York,NYCC01,3
+507026,NYCC01,,,8/27/2015,,10002,Manhattan,New York,NYCC01,3
+507031,NYCC01,Finance,Tax Exemption,8/28/2015,12/17/2015,10002,Manhattan,New York,NYCC01,3
+507032,NYCC01,Land Use and Zoning,,8/29/2015,,10002,Manhattan,New York,NYCC01,3
 507033,NYCC01,Governmental Operations ,,8/30/2015,,10002,Manhattan,New York,NYCC01,3
-507328,NYCC01,Governmental Operations ,,11/19/2015,,10013,Manhattan,New York,NYCC01,2
-507332,NYCC01,Governmental Operations ,,11/20/2015,,10004,Manhattan,New York,NYCC01,1
-507425,NYCC01,Governmental Operations ,,12/20/2015,,11230,Brooklyn,Brooklyn,NYCC44,12
-507301,NYCC01,Health,Death Certificates,11/17/2015,,10003,Manhattan,New York,NYCC01,2
-507338,NYCC01,Health,Death Certificates,11/23/2015,,,,,,
-506772,NYCC01,Health,Disability Services,7/8/2015,,,,,,
-507479,NYCC01,Health,HIV/Aids,12/31/2015,12/31/2015,10002,,New York,,
-507237,NYCC01,Health,Hospital Facility or Clinic,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
-507322,NYCC01,Health,Hospital Facility or Clinic,11/19/2015,,10002,Manhattan,New York,NYCC01,3
-507254,NYCC01,Health,Rats/Rodents,8/19/2015,,10013,Manhattan,New York,NYCC01,1
-506798,NYCC01,Health,,7/8/2015,,10038,Manhattan,New York,NYCC01,1
-506805,NYCC01,Health,,7/14/2015,,10003,Manhattan,New York,NYCC02,3
+507036,NYCC01,Housing and Buildings,NYCHA New Application,8/31/2015,9/14/2015,11228,Brooklyn,Brooklyn,NYCC43,11
+507035,NYCC01,Housing and Buildings,,8/31/2015,,10009,Manhattan,New York,NYCC02,3
+507034,NYCC01,,,8/31/2015,,Hi,,Hi,,
+507038,NYCC01,Immigration,Green Card,9/1/2015,,11220,,,,
+507037,NYCC01,Parks,Parks Permits and Applications,9/1/2015,9/3/2015,10007,Manhattan,New York,NYCC01,1
+507041,NYCC01,Immigration,Green Card,9/2/2015,,10002,Manhattan,New York,NYCC01,3
+507040,NYCC01,Quality of Life,Smoking,9/2/2015,,10038,,,,
+507039,NYCC01,,,9/2/2015,,Let u,,Let us gain you new clients Via social media for F,,
+507043,NYCC01,Consumer Affairs,Retail Store,9/3/2015,12/4/2015,11372,Queens,Jackson Heights,NYCC25,3
+507046,NYCC01,General Welfare,,9/4/2015,,10007,Manhattan,New York,NYCC01,1
 507044,NYCC01,Health,,9/4/2015,,75025,,Plano,,
-507263,NYCC01,Health,,11/13/2015,,10016,Manhattan,New York,NYCC02,5
-507011,NYCC01,Housing and Buildings,Accessibility,8/25/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-507476,NYCC01,Housing and Buildings,Bed Bugs,12/30/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
-507383,NYCC01,Housing and Buildings,Billboard/Awning and Building Sign,12/9/2015,1/8/2016,10002,Manhattan,New York,NYCC01,3
+507050,NYCC01,Housing and Buildings,Unsanitary Condition,9/4/2015,,10002,Manhattan,New York,NYCC01,3
+507047,NYCC01,Consumer Affairs,,9/8/2015,,10002,Manhattan,New York,NYCC01,3
+507049,NYCC01,Housing and Buildings,Eviction,9/8/2015,,10002,Manhattan,New York,NYCC01,3
+507048,NYCC01,Housing and Buildings,Rent Increases,9/8/2015,9/8/2015,10006,Manhattan,New York,NYCC01,1
+507081,NYCC01,Aging,Medicare Savings Program,9/9/2015,12/9/2015,10038,Manhattan,New York,NYCC01,1
+507051,NYCC01,Housing and Buildings,,9/10/2015,,10002,Manhattan,New York,NYCC01,3
+507062,NYCC01,Transportation,Access-A-Ride,9/14/2015,9/28/2015,10016,Manhattan,New York,NYCC02,6
+507052,NYCC01,Transportation,,9/14/2015,,10038,Manhattan,New York,NYCC01,3
+507053,NYCC01,,,9/14/2015,,"Hi, l",,"Hi, last chance....",,
+507055,NYCC01,Civil Service and Labor,Civil Service Commission,9/15/2015,9/15/2015,10038,Manhattan,New York,NYCC01,3
+507056,NYCC01,Housing and Buildings,,9/15/2015,,10036,Manhattan,New York,NYCC03,4
+507054,NYCC01,,,9/15/2015,,"Hi, l",,"Hi, last chance....",,
+507057,NYCC01,Aging,,9/16/2015,,10128,Manhattan,New York,NYCC05,8
+507058,NYCC01,Quality of Life,Noise - Other,9/16/2015,9/16/2015,10005,Manhattan,New York,NYCC01,1
+507061,NYCC01,Education,Transfers,9/17/2015,12/2/2015,10002,Manhattan,New York,NYCC01,3
+507382,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,9/17/2015,,11211,,Brooklyn,NYCC,
+507059,NYCC01,Land Use and Zoning,,9/17/2015,,10002,Manhattan,New York,NYCC01,3
+507060,NYCC01,Parks,,9/17/2015,,10012,Manhattan,New York,NYCC01,2
+507064,NYCC01,Consumer Complaints,,9/18/2015,,10002,Manhattan,New York,NYCC01,3
+507063,NYCC01,Cultural Affairs,,9/18/2015,,10002,Manhattan,New York,NYCC01,3
+507065,NYCC01,Aging,,9/19/2015,,10002,Manhattan,New York,NYCC01,3
+507069,NYCC01,Consumer Complaints,,9/19/2015,,10002,Manhattan,New York,NYCC01,3
+507067,NYCC01,Housing and Buildings,NYCHA New Application,9/19/2015,12/29/2015,10002,,None,,
+507066,NYCC01,Housing and Buildings,,9/19/2015,,10002,,None,,
+507068,NYCC01,Land Use and Zoning,,9/19/2015,,10006,Manhattan,New York,NYCC01,1
+507070,NYCC01,Parks,,9/19/2015,,10004,Manhattan,New York,NYCC01,1
 507072,NYCC01,Housing and Buildings,Boiler,9/21/2015,9/21/2015,10002,Manhattan,New York,NYCC01,3
-507110,NYCC01,Housing and Buildings,Boiler,9/29/2015,10/5/2015,10002,Manhattan,New York,NYCC01,3
-507173,NYCC01,Housing and Buildings,Boiler,10/23/2015,12/15/2015,10012,Manhattan,New York,NYCC01,2
-507347,NYCC01,Housing and Buildings,Boiler,11/24/2015,,10013,Manhattan,New York,NYCC01,1
-507429,NYCC01,Housing and Buildings,Boiler,12/22/2015,12/22/2015,10002,Manhattan,New York,NYCC01,3
+507073,NYCC01,Parks,Tree Sidewalk Prog,9/21/2015,10/7/2015,,,,,
+507071,NYCC01,,,9/21/2015,,oyste,,Oyster Rolex Replique,,
+507078,NYCC01,General Welfare,Public Assistance,9/22/2015,,10013,Manhattan,New York,NYCC01,2
+507074,NYCC01,General Welfare,,9/22/2015,,10002,Manhattan,New York,NYCC01,3
+507079,NYCC01,Housing and Buildings,Lease Issue,9/22/2015,10/5/2015,10002,,New York,NYCC,
+507080,NYCC01,Youth Services,,9/22/2015,,10011,Manhattan,New York,NYCC03,4
+507083,NYCC01,Housing and Buildings,Heat/Hot Water,9/23/2015,1/4/2016,10002,Manhattan,New York,NYCC01,3
+507082,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/23/2015,,10002,Manhattan,New York,NYCC01,3
+507084,NYCC01,Parks,,9/23/2015,,10038,,New York,,
+507102,NYCC01,General Welfare,Public Assistance,9/24/2015,12/17/2015,10038,Manhattan,New York,NYCC01,3
 507090,NYCC01,Housing and Buildings,Building Maintenance,9/24/2015,,10002,Manhattan,New York,NYCC01,3
 507091,NYCC01,Housing and Buildings,Building Maintenance,9/24/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
-507255,NYCC01,Housing and Buildings,Building Maintenance,11/10/2015,,10012,Manhattan,New York,NYCC03,2
-507374,NYCC01,Housing and Buildings,Building Maintenance,12/7/2015,12/11/2015,10038,,New York,,
-507120,NYCC01,Housing and Buildings,Construction General,7/16/2015,10/5/2015,10002,Manhattan,New York,NYCC01,3
-507379,NYCC01,Housing and Buildings,Construction General,12/8/2015,,10002,Manhattan,New York,NYCC01,3
-507463,NYCC01,Housing and Buildings,Construction General,12/29/2015,12/29/2015,10012,Manhattan,New York,NYCC01,2
-507414,NYCC01,Housing and Buildings,DOB Permits,12/16/2015,,10012,,New York,,
-506864,NYCC01,Housing and Buildings,Eviction,7/9/2015,,10002,Manhattan,New York,NYCC01,3
-506797,NYCC01,Housing and Buildings,Eviction,7/9/2015,,10002,Manhattan,New York,NYCC01,3
-506861,NYCC01,Housing and Buildings,Eviction,7/23/2015,,,,,,
-506886,NYCC01,Housing and Buildings,Eviction,7/27/2015,9/4/2015,10002,Manhattan,New York,NYCC01,3
-506995,NYCC01,Housing and Buildings,Eviction,8/4/2015,12/9/2015,10002,Manhattan,New York,NYCC01,3
-506994,NYCC01,Housing and Buildings,Eviction,8/6/2015,12/9/2015,10002,Manhattan,New York,NYCC01,3
-506996,NYCC01,Housing and Buildings,Eviction,8/6/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
-507252,NYCC01,Housing and Buildings,Eviction,8/6/2015,,,,,,
-507049,NYCC01,Housing and Buildings,Eviction,9/8/2015,,10002,Manhattan,New York,NYCC01,3
-507208,NYCC01,Housing and Buildings,Eviction,10/28/2015,,10012,Manhattan,New York,NYCC01,2
-507213,NYCC01,Housing and Buildings,Eviction,10/29/2015,10/29/2015,10012,Manhattan,New York,NYCC01,2
-507325,NYCC01,Housing and Buildings,Eviction,11/19/2015,11/19/2015,11374,,Rego Park,,
-507401,NYCC01,Housing and Buildings,Eviction,12/11/2015,12/11/2015,10019,Manhattan,New York,NYCC03,4
-507478,NYCC01,Housing and Buildings,Eviction,12/31/2015,12/31/2015,11233,Brooklyn,Brooklyn,NYCC41,16
-507115,NYCC01,Housing and Buildings,Gas,10/1/2015,12/14/2015,10038,Manhattan,New York,NYCC01,3
-507199,NYCC01,Housing and Buildings,Gas,10/27/2015,11/10/2015,10038,Manhattan,New York,NYCC01,3
-506992,NYCC01,Housing and Buildings,HPD Housing Lottery,8/19/2015,,10016,Manhattan,New York,NYCC04,6
-507343,NYCC01,Housing and Buildings,HPD-owned Building Condition,11/24/2015,11/30/2015,10013,Manhattan,New York,NYCC01,1
-507083,NYCC01,Housing and Buildings,Heat/Hot Water,9/23/2015,1/4/2016,10002,Manhattan,New York,NYCC01,3
-507124,NYCC01,Housing and Buildings,Heat/Hot Water,10/7/2015,10/8/2015,,,,,
-507123,NYCC01,Housing and Buildings,Heat/Hot Water,10/8/2015,10/8/2015,10007,Manhattan,New York,NYCC01,1
-507168,NYCC01,Housing and Buildings,Heat/Hot Water,10/23/2015,10/23/2015,10002,Manhattan,New York,NYCC01,3
-507200,NYCC01,Housing and Buildings,Heat/Hot Water,10/27/2015,,10002,Manhattan,New York,NYCC01,3
-507243,NYCC01,Housing and Buildings,Heat/Hot Water,11/4/2015,11/30/2015,10002,Manhattan,New York,NYCC01,3
-507351,NYCC01,Housing and Buildings,Heat/Hot Water,11/30/2015,12/30/2015,10038,,New York,,
-507399,NYCC01,Housing and Buildings,Heat/Hot Water,12/11/2015,12/11/2015,10007,Manhattan,New York,NYCC01,1
-507402,NYCC01,Housing and Buildings,Heat/Hot Water,12/14/2015,12/14/2015,10002,Manhattan,New York,NYCC01,3
-507440,NYCC01,Housing and Buildings,Heat/Hot Water,12/28/2015,12/28/2015,10002,Manhattan,New York,NYCC01,3
-507441,NYCC01,Housing and Buildings,Heat/Hot Water,12/28/2015,12/28/2015,10002,,New York,,
-507470,NYCC01,Housing and Buildings,Heat/Hot Water,12/30/2015,12/30/2015,10002,,New York,,
-507477,NYCC01,Housing and Buildings,Heat/Hot Water,12/31/2015,1/2/2016,10002,Manhattan,New York,NYCC01,3
-507027,NYCC01,Housing and Buildings,Housing Discrimination,8/27/2015,,10012,Manhattan,New York,NYCC01,2
-507253,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,7/22/2015,,10012,Manhattan,New York,NYCC01,2
-507172,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,10/20/2015,12/15/2015,,,,,
-507415,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,12/17/2015,12/17/2015,10002,Manhattan,New York,NYCC02,3
-507435,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,12/23/2015,12/23/2015,10013,,New York,,
-507247,NYCC01,Housing and Buildings,Lease Issue,7/9/2015,,,,,,
-507246,NYCC01,Housing and Buildings,Lease Issue,7/9/2015,,,,,,
-507248,NYCC01,Housing and Buildings,Lease Issue,7/9/2015,,,,,,
-506987,NYCC01,Housing and Buildings,Lease Issue,8/18/2015,12/4/2015,10002,Manhattan,New York,NYCC01,3
-507079,NYCC01,Housing and Buildings,Lease Issue,9/22/2015,10/5/2015,10002,,New York,NYCC,
-507223,NYCC01,Housing and Buildings,Lease Issue,10/30/2015,,10002,,New York,NYCC,
-507225,NYCC01,Housing and Buildings,Lease Issue,10/30/2015,,10002,,New York,NYCC,
-507226,NYCC01,Housing and Buildings,Lease Issue,10/30/2015,,10002,,New York,NYCC,
-507453,NYCC01,Housing and Buildings,Lease Issue,12/29/2015,12/29/2015,,,,,
 507113,NYCC01,Housing and Buildings,Mold,9/24/2015,,10038,Manhattan,New York,NYCC01,3
-506838,NYCC01,Housing and Buildings,NYCHA Building Maintenance,7/20/2015,8/4/2015,10002,Manhattan,New York,NYCC01,3
-506849,NYCC01,Housing and Buildings,NYCHA Building Maintenance,7/21/2015,,10002,Manhattan,New York,NYCC01,3
-507086,NYCC01,Housing and Buildings,NYCHA Building Maintenance,8/27/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
-507082,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/23/2015,,10002,Manhattan,New York,NYCC01,3
 507087,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/24/2015,,10002,Manhattan,New York,NYCC01,3
 507088,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/24/2015,,10002,Manhattan,New York,NYCC01,3
 507089,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/24/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
@@ -357,268 +696,63 @@ Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough
 507097,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/24/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
 507099,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/24/2015,,10002,Manhattan,New York,NYCC01,3
 507100,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/24/2015,,10002,Manhattan,New York,NYCC01,3
-507111,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/29/2015,12/16/2015,10002,Manhattan,New York,NYCC01,3
-507118,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/5/2015,10/5/2015,,,,,
-507122,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/7/2015,,10002,Manhattan,New York,NYCC01,3
-507149,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/20/2015,,10002,Manhattan,New York,NYCC01,3
-507167,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/23/2015,10/30/2015,10002,Manhattan,New York,NYCC01,3
-507189,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/26/2015,,10002,Manhattan,New York,NYCC01,3
-507195,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/26/2015,,10002,Manhattan,New York,NYCC01,3
-507202,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/27/2015,,10038,Manhattan,New York,NYCC01,3
-507335,NYCC01,Housing and Buildings,NYCHA Building Maintenance,11/20/2015,,,,,,
-507336,NYCC01,Housing and Buildings,NYCHA Building Maintenance,11/21/2015,12/30/2015,10009,Manhattan,New York,NYCC02,3
-507364,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/3/2015,,10002,Manhattan,New York,NYCC01,3
-507378,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/8/2015,,,,,,
-507419,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/17/2015,12/17/2015,11201,Brooklyn,Brooklyn,NYCC35,2
-507434,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/23/2015,1/4/2016,10038,Manhattan,New York,NYCC01,3
-507443,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/25/2015,,10038,Manhattan,New York,NYCC01,3
-507447,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-507448,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,,10002,Manhattan,New York,NYCC01,3
-507451,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,,,,,,
-507456,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,,10002,,New York,,
-507466,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,12/29/2015,10002,,New York,,
-507251,NYCC01,Housing and Buildings,NYCHA Misc.,7/30/2015,,10002,Manhattan,New York,NYCC01,3
-507140,NYCC01,Housing and Buildings,NYCHA Misc.,10/13/2015,10/27/2015,11220,Brooklyn,Brooklyn,NYCC38,7
-507333,NYCC01,Housing and Buildings,NYCHA Misc.,11/17/2015,,,,,,
-507357,NYCC01,Housing and Buildings,NYCHA Misc.,12/1/2015,,10038,Manhattan,New York,NYCC01,3
-506762,NYCC01,Housing and Buildings,NYCHA New Application,7/7/2015,7/7/2015,10002,Manhattan,New York,NYCC02,3
-507036,NYCC01,Housing and Buildings,NYCHA New Application,8/31/2015,9/14/2015,11228,Brooklyn,Brooklyn,NYCC43,11
-507067,NYCC01,Housing and Buildings,NYCHA New Application,9/19/2015,12/29/2015,10002,,None,,
-507112,NYCC01,Housing and Buildings,NYCHA New Application,9/29/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-507234,NYCC01,Housing and Buildings,NYCHA New Application,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
-507339,NYCC01,Housing and Buildings,NYCHA New Application,11/24/2015,11/24/2015,10002,,New York,,
-507361,NYCC01,Housing and Buildings,NYCHA New Application,12/2/2015,,10013,Manhattan,New York,NYCC01,2
-507279,NYCC01,Housing and Buildings,NYCHA Safety and Security,11/14/2015,,10002,Manhattan,New York,NYCC01,3
-507424,NYCC01,Housing and Buildings,NYCHA Safety and Security,12/18/2015,,10002,,New York,,
-507426,NYCC01,Housing and Buildings,NYCHA Safety and Security,12/21/2015,,10038,Manhattan,New York,NYCC01,3
-506915,NYCC01,Housing and Buildings,NYCHA Transfers,8/5/2015,,10002,,New York,NYCC,
 507108,NYCC01,Housing and Buildings,NYCHA Transfers,9/24/2015,,10038,Manhattan,New York,NYCC01,3
-507232,NYCC01,Housing and Buildings,NYCHA Transfers,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
-507375,NYCC01,Housing and Buildings,NYCHA Transfers,12/7/2015,12/7/2015,,,,,
-507030,NYCC01,Housing and Buildings,Neighbor Dispute,8/27/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-507462,NYCC01,Housing and Buildings,Neighbor Dispute,12/29/2015,,10002,,New York,,
-507471,NYCC01,Housing and Buildings,Neighbor Dispute,12/30/2015,12/30/2015,10002,,New York,,
-506918,NYCC01,Housing and Buildings,Rent Increases,8/6/2015,,10013,Manhattan,New York,NYCC01,1
-507048,NYCC01,Housing and Buildings,Rent Increases,9/8/2015,9/8/2015,10006,Manhattan,New York,NYCC01,1
-507222,NYCC01,Housing and Buildings,Rent Increases,10/30/2015,,10002,,New York,NYCC,
-507224,NYCC01,Housing and Buildings,Rent Increases,10/30/2015,,10002,,New York,NYCC,
-506984,NYCC01,Housing and Buildings,Rent Reductions,8/18/2015,8/18/2015,10002,Manhattan,New York,NYCC01,3
-507372,NYCC01,Housing and Buildings,Repair Assistance,12/6/2015,,10013,Manhattan,New York,NYCC01,1
-506769,NYCC01,Housing and Buildings,Section 8,7/8/2015,,,,,,
-507010,NYCC01,Housing and Buildings,Section 8,8/24/2015,12/9/2015,10013,Manhattan,New York,NYCC01,1
-507013,NYCC01,Housing and Buildings,Section 8,8/25/2015,8/25/2015,10002,Manhattan,New York,NYCC01,3
-507233,NYCC01,Housing and Buildings,Section 8,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
-507265,NYCC01,Housing and Buildings,Section 8,11/13/2015,,10002,Manhattan,New York,NYCC01,3
-507346,NYCC01,Housing and Buildings,Section 8,11/24/2015,11/24/2015,10003,Manhattan,New York,NYCC02,3
-507382,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,9/17/2015,,11211,,Brooklyn,NYCC,
-507416,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,12/17/2015,,10024,Manhattan,New York,NYCC06,7
-506891,NYCC01,Housing and Buildings,Senior Housing,7/29/2015,12/17/2015,10002,Manhattan,New York,NYCC01,3
-507126,NYCC01,Housing and Buildings,Senior Housing,10/8/2015,10/8/2015,10012,Manhattan,New York,NYCC01,2
-507398,NYCC01,Housing and Buildings,Senior Housing,12/4/2015,,10002,Manhattan,New York,NYCC01,3
-507464,NYCC01,Housing and Buildings,Supportive Housing,12/29/2015,12/29/2015,10002,,New York,,
-506866,NYCC01,Housing and Buildings,Tenant Harassment,7/9/2015,,,,,,
-506973,NYCC01,Housing and Buildings,Tenant Harassment,8/17/2015,8/17/2015,10280,Manhattan,New York,NYCC01,1
-507201,NYCC01,Housing and Buildings,Tenant Harassment,10/27/2015,,10002,Manhattan,New York,NYCC01,3
-507050,NYCC01,Housing and Buildings,Unsanitary Condition,9/4/2015,,10002,Manhattan,New York,NYCC01,3
-506735,NYCC01,Housing and Buildings,,7/2/2015,,10002,Manhattan,New York,NYCC01,3
-506834,NYCC01,Housing and Buildings,,7/20/2015,,10038,Manhattan,New York,NYCC01,3
-506851,NYCC01,Housing and Buildings,,7/21/2015,,10012,Manhattan,New York,NYCC01,2
-506879,NYCC01,Housing and Buildings,,7/28/2015,,10013,Manhattan,New York,NYCC01,2
-506941,NYCC01,Housing and Buildings,,8/11/2015,,10013,Manhattan,New York,NYCC01,2
-506942,NYCC01,Housing and Buildings,,8/11/2015,,10013,Manhattan,New York,NYCC01,1
-506944,NYCC01,Housing and Buildings,,8/11/2015,,10012,Manhattan,New York,NYCC01,2
-507035,NYCC01,Housing and Buildings,,8/31/2015,,10009,Manhattan,New York,NYCC02,3
-507051,NYCC01,Housing and Buildings,,9/10/2015,,10002,Manhattan,New York,NYCC01,3
-507056,NYCC01,Housing and Buildings,,9/15/2015,,10036,Manhattan,New York,NYCC03,4
-507066,NYCC01,Housing and Buildings,,9/19/2015,,10002,,None,,
-507109,NYCC01,Housing and Buildings,,9/29/2015,,10013,Manhattan,New York,NYCC01,1
-507125,NYCC01,Housing and Buildings,,10/8/2015,,10012,Manhattan,New York,NYCC01,2
-507153,NYCC01,Housing and Buildings,,10/20/2015,,10007,Manhattan,New York,NYCC01,1
-507211,NYCC01,Housing and Buildings,,10/28/2015,,10013,Manhattan,New York,NYCC01,2
-507242,NYCC01,Housing and Buildings,,11/2/2015,,10012,Manhattan,New York,NYCC03,2
-507231,NYCC01,Housing and Buildings,,11/3/2015,,10013,Manhattan,New York,NYCC01,1
-507245,NYCC01,Housing and Buildings,,11/4/2015,,10002,,New York,NYCC,
-507256,NYCC01,Housing and Buildings,,11/10/2015,,10002,Manhattan,New York,NYCC01,3
-507259,NYCC01,Housing and Buildings,,11/13/2015,,10013,Manhattan,New York,NYCC01,2
-507260,NYCC01,Housing and Buildings,,11/13/2015,,10013,Manhattan,New York,NYCC01,2
-507298,NYCC01,Housing and Buildings,,11/17/2015,,10038,Manhattan,New York,NYCC01,1
-507352,NYCC01,Housing and Buildings,,11/30/2015,,10002,Manhattan,New York,NYCC01,3
-507369,NYCC01,Housing and Buildings,,12/4/2015,,,,,,
-507370,NYCC01,Housing and Buildings,,12/4/2015,,,,,,
-507403,NYCC01,Housing and Buildings,,12/10/2015,,10002,Manhattan,New York,NYCC01,3
-506991,NYCC01,Human and Civil Rights,Ethnic Bias,8/14/2015,8/27/2015,11228,Brooklyn,Brooklyn,NYCC43,11
-507077,NYCC01,Human and Civil Rights,Racial Bias,7/29/2015,12/15/2015,,,,,
-507038,NYCC01,Immigration,Green Card,9/1/2015,,11220,,,,
-507041,NYCC01,Immigration,Green Card,9/2/2015,,10002,Manhattan,New York,NYCC01,3
-507400,NYCC01,Immigration,Green Card,12/11/2015,12/11/2015,10002,Manhattan,New York,NYCC01,3
-506756,NYCC01,Immigration,,7/7/2015,,10001,,New York,,
-507373,NYCC01,Land Use and Zoning,Zoning,12/6/2015,12/16/2015,10002,Manhattan,New York,NYCC01,3
-507409,NYCC01,Land Use and Zoning,Zoning,12/16/2015,12/30/2015,10013,Manhattan,New York,NYCC01,1
-506759,NYCC01,Land Use and Zoning,,7/7/2015,,10029,Manhattan,New York,NYCC04,11
-507032,NYCC01,Land Use and Zoning,,8/29/2015,,10002,Manhattan,New York,NYCC01,3
-507059,NYCC01,Land Use and Zoning,,9/17/2015,,10002,Manhattan,New York,NYCC01,3
-507068,NYCC01,Land Use and Zoning,,9/19/2015,,10006,Manhattan,New York,NYCC01,1
-507134,NYCC01,Land Use and Zoning,,10/13/2015,,10461,Bronx,Bronx,NYCC13,10
-507337,NYCC01,Land Use and Zoning,,11/21/2015,,10016,Manhattan,New York,NYCC04,6
-507405,NYCC01,Land Use and Zoning,,12/15/2015,,10002,Manhattan,New York,NYCC01,3
-507302,NYCC01,Legal Services,Misc (Wills/Court Docs/etc.),7/13/2015,,10002,Manhattan,New York,NYCC02,3
-506998,NYCC01,Parks,Park Maintenance,8/20/2015,8/26/2015,10002,Manhattan,New York,NYCC01,3
-507009,NYCC01,Parks,Park Maintenance,8/24/2015,8/24/2015,10011,Manhattan,New York,NYCC03,2
-507012,NYCC01,Parks,Park Maintenance,8/25/2015,,10002,Manhattan,New York,NYCC01,3
-507266,NYCC01,Parks,Park Maintenance,11/13/2015,11/17/2015,10038,Manhattan,New York,NYCC01,3
-506972,NYCC01,Parks,Parks Permits and Applications,8/17/2015,,,,,,
-507001,NYCC01,Parks,Parks Permits and Applications,8/21/2015,8/21/2015,10301,Staten Island,Staten Island,NYCC49,1
-507037,NYCC01,Parks,Parks Permits and Applications,9/1/2015,9/3/2015,10007,Manhattan,New York,NYCC01,1
-506853,NYCC01,Parks,Stump Removal,7/22/2015,10/29/2015,10002,Manhattan,New York,NYCC01,3
-507073,NYCC01,Parks,Tree Sidewalk Prog,9/21/2015,10/7/2015,,,,,
-507228,NYCC01,Parks,Tree Sidewalk Prog,11/2/2015,,10002,Manhattan,New York,NYCC01,3
-506763,NYCC01,Parks,,7/8/2015,,10007,Manhattan,New York,NYCC01,1
-507008,NYCC01,Parks,,8/22/2015,,11434,Queens,Jamaica,NYCC28,12
-507060,NYCC01,Parks,,9/17/2015,,10012,Manhattan,New York,NYCC01,2
-507070,NYCC01,Parks,,9/19/2015,,10004,Manhattan,New York,NYCC01,1
-507084,NYCC01,Parks,,9/23/2015,,10038,,New York,,
 507101,NYCC01,Parks,,9/24/2015,,10003,Manhattan,New York,NYCC02,5
-507148,NYCC01,Parks,,10/19/2015,,10038,Manhattan,New York,NYCC01,3
-507348,NYCC01,Parks,,11/29/2015,,10004,Manhattan,New York,NYCC01,1
-507467,NYCC01,Parks,,12/30/2015,,10002,Manhattan,New York,NYCC01,3
-507215,NYCC01,Public Safety,Disorderly Group,10/29/2015,,,,,,
-507490,NYCC01,Public Safety,Drug Activity,12/14/2015,1/5/2016,,,,,
-507235,NYCC01,Public Safety,Identity Theft,11/3/2015,11/3/2015,10038,Manhattan,New York,NYCC01,3
-507194,NYCC01,Public Safety,Loitering,10/26/2015,10/26/2015,,,,,
-506870,NYCC01,Public Safety,,7/24/2015,,10280,Manhattan,New York,NYCC01,1
-506872,NYCC01,Public Safety,,7/24/2015,,10280,Manhattan,New York,NYCC01,1
-506877,NYCC01,Public Safety,,7/26/2015,,10014,Manhattan,New York,NYCC03,2
-507137,NYCC01,Public Safety,,10/15/2015,,10038,Manhattan,New York,NYCC01,1
-507377,NYCC01,Public Safety,,12/8/2015,,13202,,Syracuse,NYCC,
-507432,NYCC01,Public Safety,,12/23/2015,,10013,Manhattan,New York,NYCC01,2
-507436,NYCC01,Quality of Life,Graffiti,12/24/2015,,10038,Manhattan,New York,NYCC01,1
-507340,NYCC01,Quality of Life,Noise - Bar/Restaurant,11/24/2015,11/24/2015,10013,,New York,,
-506830,NYCC01,Quality of Life,Noise - Other,7/20/2015,7/28/2015,,,,,
-506873,NYCC01,Quality of Life,Noise - Other,7/24/2015,11/24/2015,10002,Manhattan,New York,NYCC01,3
-507058,NYCC01,Quality of Life,Noise - Other,9/16/2015,9/16/2015,10005,Manhattan,New York,NYCC01,1
-507106,NYCC01,Quality of Life,Noise - Other,9/26/2015,12/16/2015,10005,Manhattan,New York,NYCC01,1
-507174,NYCC01,Quality of Life,Noise - Other,10/22/2015,10/26/2015,10038,Manhattan,New York,NYCC01,1
-507268,NYCC01,Quality of Life,Noise - Other,11/13/2015,11/16/2015,10024,Manhattan,New York,NYCC06,7
-507269,NYCC01,Quality of Life,Noise - Other,11/13/2015,11/16/2015,10024,Manhattan,New York,NYCC06,7
-507304,NYCC01,Quality of Life,Noise - Other,11/17/2015,12/1/2015,10003,Manhattan,New York,NYCC02,3
-507314,NYCC01,Quality of Life,Noise - Other,11/18/2015,12/1/2015,10014,Manhattan,New York,NYCC03,2
-507371,NYCC01,Quality of Life,Noise - Other,12/4/2015,12/16/2015,10280,Manhattan,New York,NYCC01,1
-507406,NYCC01,Quality of Life,Noise - Other,12/16/2015,1/2/2016,10012,Manhattan,New York,NYCC01,2
-507412,NYCC01,Quality of Life,Noise - Other,12/16/2015,12/16/2015,10005,Manhattan,New York,NYCC01,1
-506985,NYCC01,Quality of Life,Noise - Residential,8/18/2015,10/7/2015,10002,Manhattan,New York,NYCC01,3
-507076,NYCC01,Quality of Life,Noise - Residential,8/21/2015,12/29/2015,,,,,
-507249,NYCC01,Quality of Life,Noise - Residential,11/6/2015,12/29/2015,10012,Manhattan,New York,NYCC01,2
-507380,NYCC01,Quality of Life,Noise - Residential,12/9/2015,,10002,Manhattan,New York,NYCC01,3
-506829,NYCC01,Quality of Life,Noise- Street/Sidewalk,7/20/2015,8/27/2015,10007,Manhattan,New York,NYCC01,1
-507040,NYCC01,Quality of Life,Smoking,9/2/2015,,10038,,,,
-507190,NYCC01,Quality of Life,,10/26/2015,,10012,Manhattan,New York,NYCC01,2
-507028,NYCC01,Sanitation,Dirty Sidewalk,7/15/2015,8/27/2015,10013,Manhattan,New York,NYCC01,2
-507334,NYCC01,Sanitation,Dirty Sidewalk,11/13/2015,12/30/2015,,,,,
-507341,NYCC01,Sanitation,Missed Collection,11/24/2015,11/24/2015,10012,,New York,,
-507240,NYCC01,Sanitation,Street Cleaning,11/3/2015,,10002,Manhattan,New York,NYCC01,3
-507283,NYCC01,Sanitation,,11/15/2015,,10002,Manhattan,New York,NYCC01,3
-507062,NYCC01,Transportation,Access-A-Ride,9/14/2015,9/28/2015,10016,Manhattan,New York,NYCC02,6
-507474,NYCC01,Transportation,Access-A-Ride,12/30/2015,12/30/2015,10013,Manhattan,New York,NYCC01,1
-507230,NYCC01,Transportation,Bridge,11/2/2015,,,,,,
-507261,NYCC01,Transportation,Bus Shelter/Stop,11/13/2015,12/14/2015,10002,,New York,,
-507262,NYCC01,Transportation,Bus Shelter/Stop,11/13/2015,12/23/2015,10002,Manhattan,New York,NYCC01,3
-507368,NYCC01,Transportation,Bus Shelter/Stop,12/4/2015,1/21/2016,10002,Manhattan,New York,NYCC01,3
-507327,NYCC01,Transportation,Buses,11/19/2015,,10002,,New York,,
-507427,NYCC01,Transportation,Buses,12/21/2015,,,,,,
-506947,NYCC01,Transportation,Parking Permits,8/11/2015,8/26/2015,10002,Manhattan,New York,NYCC01,3
-507413,NYCC01,Transportation,Parking Permits,12/9/2015,12/16/2015,,,,,
-506993,NYCC01,Transportation,Parking Restrictions,8/19/2015,10/7/2015,10002,Manhattan,New York,NYCC01,3
-506997,NYCC01,Transportation,Parking Restrictions,8/20/2015,,10002,Manhattan,New York,NYCC01,3
-507473,NYCC01,Transportation,Parking Restrictions,12/30/2015,12/30/2015,10002,,New York,,
-506988,NYCC01,Transportation,Parking Signs,8/19/2015,,10002,Manhattan,New York,NYCC01,3
-507423,NYCC01,Transportation,Pedestrian Safety,12/18/2015,,10004,,New York,,
-506806,NYCC01,Transportation,Pot Holes,7/15/2015,11/23/2015,10003,Manhattan,New York,NYCC01,2
-507355,NYCC01,Transportation,Pot Holes,11/30/2015,,,,,,
-507345,NYCC01,Transportation,Request from Taxi Operator,11/24/2015,,11580,,Valley Stream,,
-507105,NYCC01,Transportation,Sidewalks,9/25/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-507229,NYCC01,Transportation,Sidewalks,11/2/2015,,10002,Manhattan,New York,NYCC01,3
-507015,NYCC01,Transportation,Street Signs,8/24/2015,10/7/2015,10002,Manhattan,New York,NYCC01,3
-507396,NYCC01,Transportation,Street Signs,12/9/2015,,11204,Brooklyn,Brooklyn,NYCC44,11
-507430,NYCC01,Transportation,Street Signs,12/22/2015,,10013,Manhattan,New York,NYCC01,1
-507209,NYCC01,Transportation,Subways,10/28/2015,10/30/2015,10038,Manhattan,New York,NYCC01,1
-506999,NYCC01,Transportation,Traffic Congestion,8/20/2015,10/7/2015,10012,Manhattan,New York,NYCC01,2
-507354,NYCC01,Transportation,Traffic Congestion,11/30/2015,12/1/2015,,,,,
-506734,NYCC01,Transportation,,7/1/2015,,10004,Manhattan,New York,NYCC01,1
-506739,NYCC01,Transportation,,7/4/2015,,10001,,New York,,
-506800,NYCC01,Transportation,,7/13/2015,,10012,Manhattan,New York,NYCC01,2
-506803,NYCC01,Transportation,,7/14/2015,,10013,Manhattan,New York,NYCC01,2
-506814,NYCC01,Transportation,,7/16/2015,,10156,,New York,,
-506819,NYCC01,Transportation,,7/18/2015,,10002,Manhattan,New York,NYCC01,3
-506820,NYCC01,Transportation,,7/18/2015,,10314,Staten Island,Staten Island,NYCC50,1
-506821,NYCC01,Transportation,,7/18/2015,,10002,Manhattan,New York,NYCC01,3
-506822,NYCC01,Transportation,,7/18/2015,,10011,Manhattan,New York,NYCC01,2
-506823,NYCC01,Transportation,,7/19/2015,,10005,Manhattan,New York,NYCC01,1
-506824,NYCC01,Transportation,,7/19/2015,,10013,Manhattan,New York,NYCC01,1
-506826,NYCC01,Transportation,,7/19/2015,,10002,Manhattan,New York,NYCC01,3
-506827,NYCC01,Transportation,,7/19/2015,,10013,Manhattan,New York,NYCC01,1
-506828,NYCC01,Transportation,,7/19/2015,,10012,Manhattan,New York,NYCC01,2
-506831,NYCC01,Transportation,,7/20/2015,,10002,Manhattan,New York,NYCC02,3
-506841,NYCC01,Transportation,,7/20/2015,,10013,Manhattan,New York,NYCC01,1
-506845,NYCC01,Transportation,,7/21/2015,,10280,Manhattan,New York,NYCC01,1
-506846,NYCC01,Transportation,,7/21/2015,,10007,Manhattan,New York,NYCC01,1
-506848,NYCC01,Transportation,,7/21/2015,,10023,Manhattan,New York,NYCC06,7
-506850,NYCC01,Transportation,,7/21/2015,,10013,Manhattan,New York,NYCC01,1
-506854,NYCC01,Transportation,,7/22/2015,,10012,Manhattan,New York,NYCC01,2
-506858,NYCC01,Transportation,,7/22/2015,,10002,Manhattan,New York,NYCC01,3
-506860,NYCC01,Transportation,,7/22/2015,,10012,Manhattan,New York,NYCC01,2
-507014,NYCC01,Transportation,,8/25/2015,,10002,Manhattan,New York,NYCC01,3
-507052,NYCC01,Transportation,,9/14/2015,,10038,Manhattan,New York,NYCC01,3
-506812,NYCC01,Utilities,Con Edison,7/16/2015,7/16/2015,10462,Bronx,Bronx,NYCC13,11
-506885,NYCC01,Utilities,Con Edison,7/28/2015,10/7/2015,,,,,
-507116,NYCC01,Utilities,Con Edison,10/1/2015,,10005,Manhattan,New York,NYCC01,1
-507144,NYCC01,Utilities,Con Edison,10/18/2015,12/11/2015,10012,Manhattan,New York,NYCC01,2
-507171,NYCC01,Utilities,Con Edison,10/20/2015,12/4/2015,10013,Manhattan,New York,NYCC01,2
-507210,NYCC01,Utilities,Con Edison,10/28/2015,10/28/2015,,,,,
-507359,NYCC01,Utilities,Con Edison,12/2/2015,1/7/2016,10013,,New York,,
-507439,NYCC01,Utilities,Lifeline,12/28/2015,12/28/2015,11220,Brooklyn,Brooklyn,NYCC38,7
-506741,NYCC01,Utilities,,7/5/2015,,10001,,New York,,
-506742,NYCC01,Utilities,,7/5/2015,,10001,,New York,,
-506743,NYCC01,Utilities,,7/5/2015,,10001,,New York,,
-506933,NYCC01,Utilities,,8/10/2015,,10001,Manhattan,New York,NYCC03,4
-506936,NYCC01,Utilities,,8/10/2015,,10012,Manhattan,New York,NYCC01,2
-507244,NYCC01,Utilities,,11/5/2015,,10013,,New York,,
-506931,NYCC01,Youth Services,,8/9/2015,,10002,Manhattan,New York,NYCC01,3
-507080,NYCC01,Youth Services,,9/22/2015,,10011,Manhattan,New York,NYCC03,4
-507119,NYCC01,Youth Services,,10/5/2015,,10002,Manhattan,New York,NYCC02,3
-507203,NYCC01,Youth Services,,10/27/2015,,10282,,New York,,
-507214,NYCC01,Youth Services,,10/29/2015,,10012,Manhattan,New York,NYCC01,2
-507294,NYCC01,Youth Services,,11/16/2015,,10013,Manhattan,New York,NYCC01,1
-507397,NYCC01,Youth Services,,12/10/2015,,10035,,New York,,
-507023,NYCC01,housing,tenant harassment,8/27/2015,,10002,Manhattan,New York,NYCC01,3
-507024,NYCC01,housing,tenant harrasment,8/27/2015,,10002,Manhattan,New York,NYCC01,3
-506736,NYCC01,,,7/2/2015,,Jacqu,,Jacqueline,,
-506801,NYCC01,,,7/14/2015,,12345,,123456,,
-506862,NYCC01,,,7/23/2015,,Donna,,Donna,,
-506897,NYCC01,,,7/31/2015,,11232,Brooklyn,Brooklyn,NYCC38,12
-506900,NYCC01,,,8/2/2015,,Donna,,Donna,,
-506970,NYCC01,,,8/17/2015,,10038,Manhattan,New York,NYCC01,3
-507025,NYCC01,,,8/27/2015,,10002,Manhattan,New York,NYCC01,3
-507026,NYCC01,,,8/27/2015,,10002,Manhattan,New York,NYCC01,3
-507034,NYCC01,,,8/31/2015,,Hi,,Hi,,
-507039,NYCC01,,,9/2/2015,,Let u,,Let us gain you new clients Via social media for F,,
-507053,NYCC01,,,9/14/2015,,"Hi, l",,"Hi, last chance....",,
-507054,NYCC01,,,9/15/2015,,"Hi, l",,"Hi, last chance....",,
-507071,NYCC01,,,9/21/2015,,oyste,,Oyster Rolex Replique,,
 507085,NYCC01,,,9/24/2015,,Let u,,Let us gain you new clients Via social media for F,,
+507104,NYCC01,Education,,9/25/2015,,10002,Manhattan,New York,NYCC01,3
+507103,NYCC01,General Welfare,,9/25/2015,,10004,Manhattan,New York,NYCC01,1
+507105,NYCC01,Transportation,Sidewalks,9/25/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+507106,NYCC01,Quality of Life,Noise - Other,9/26/2015,12/16/2015,10005,Manhattan,New York,NYCC01,1
 507107,NYCC01,,,9/27/2015,,cheap,,Cheap Snapback Hats,,
+507407,NYCC01,Economy/Jobs,Seeking Employment,9/28/2015,,10002,Manhattan,New York,NYCC01,3
+507110,NYCC01,Housing and Buildings,Boiler,9/29/2015,10/5/2015,10002,Manhattan,New York,NYCC01,3
+507111,NYCC01,Housing and Buildings,NYCHA Building Maintenance,9/29/2015,12/16/2015,10002,Manhattan,New York,NYCC01,3
+507112,NYCC01,Housing and Buildings,NYCHA New Application,9/29/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+507109,NYCC01,Housing and Buildings,,9/29/2015,,10013,Manhattan,New York,NYCC01,1
+507115,NYCC01,Housing and Buildings,Gas,10/1/2015,12/14/2015,10038,Manhattan,New York,NYCC01,3
+507116,NYCC01,Utilities,Con Edison,10/1/2015,,10005,Manhattan,New York,NYCC01,1
 507114,NYCC01,,,10/1/2015,,cheap,,Cheap Snapback Hats,,
+507117,NYCC01,Economy/Jobs,,10/2/2015,,11377,Queens,Woodside,NYCC26,2
+507118,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/5/2015,10/5/2015,,,,,
+507119,NYCC01,Youth Services,,10/5/2015,,10002,Manhattan,New York,NYCC02,3
+507124,NYCC01,Housing and Buildings,Heat/Hot Water,10/7/2015,10/8/2015,,,,,
+507122,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/7/2015,,10002,Manhattan,New York,NYCC01,3
 507121,NYCC01,,,10/7/2015,,http:,,Http://Www.schoolfacilities.com/Reports/Update17.A,,
+507128,NYCC01,Education,,10/8/2015,,10002,Manhattan,New York,NYCC01,3
+507123,NYCC01,Housing and Buildings,Heat/Hot Water,10/8/2015,10/8/2015,10007,Manhattan,New York,NYCC01,1
+507126,NYCC01,Housing and Buildings,Senior Housing,10/8/2015,10/8/2015,10012,Manhattan,New York,NYCC01,2
+507125,NYCC01,Housing and Buildings,,10/8/2015,,10012,Manhattan,New York,NYCC01,2
 507127,NYCC01,,,10/8/2015,,http:,,Http://Www.connectade.com/Admin/Update5.ASP,,
 507129,NYCC01,,,10/9/2015,,http:,,Http://Www.kby.org/English/Alumni/Update51.ASP,,
+507130,NYCC01,Cultural Affairs,,10/10/2015,,10013,Manhattan,New York,NYCC01,2
+507131,NYCC01,Aging,,10/13/2015,,10007,Manhattan,New York,NYCC01,1
+507132,NYCC01,Aging,,10/13/2015,,10014,Manhattan,New York,NYCC03,2
+507140,NYCC01,Housing and Buildings,NYCHA Misc.,10/13/2015,10/27/2015,11220,Brooklyn,Brooklyn,NYCC38,7
+507134,NYCC01,Land Use and Zoning,,10/13/2015,,10461,Bronx,Bronx,NYCC13,10
 507133,NYCC01,,,10/13/2015,,http:,,Http://Www.schoolfacilities.com/Reports/Update8.AS,,
+507135,NYCC01,Cultural Affairs,,10/14/2015,,10013,Manhattan,New York,NYCC01,1
+507136,NYCC01,Education,,10/14/2015,,10025,Manhattan,New York,NYCC06,7
+507137,NYCC01,Public Safety,,10/15/2015,,10038,Manhattan,New York,NYCC01,1
+507139,NYCC01,Education,,10/16/2015,,11215,Brooklyn,Brooklyn,NYCC39,6
 507138,NYCC01,,,10/16/2015,,repli,,Replica La Montre Rolex,,
 507141,NYCC01,,,10/16/2015,,http:,,Http://Www.pdsgaming.com/Update44.ASP,,
 507142,NYCC01,,,10/17/2015,,Cheap,,Cheap Ugg Boots Online,,
 507143,NYCC01,,,10/17/2015,,Chest,,Chestnut Ugg Boots,,
+507144,NYCC01,Utilities,Con Edison,10/18/2015,12/11/2015,10012,Manhattan,New York,NYCC01,2
 507145,NYCC01,,,10/18/2015,,Chest,,Chestnut Ugg Boots,,
 507146,NYCC01,,,10/18/2015,,Chest,,Chestnut Ugg Boots,,
+507147,NYCC01,General Welfare,SSI and Social Security,10/19/2015,12/16/2015,10002,Manhattan,New York,NYCC01,3
+507148,NYCC01,Parks,,10/19/2015,,10038,Manhattan,New York,NYCC01,3
+507170,NYCC01,Consumer Affairs,Telephone Scam,10/20/2015,12/3/2015,,,,,
+507150,NYCC01,Consumer Affairs,Telephone Scam,10/20/2015,12/29/2015,10012,Manhattan,New York,NYCC01,2
+507172,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,10/20/2015,12/15/2015,,,,,
+507149,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/20/2015,,10002,Manhattan,New York,NYCC01,3
+507153,NYCC01,Housing and Buildings,,10/20/2015,,10007,Manhattan,New York,NYCC01,1
+507171,NYCC01,Utilities,Con Edison,10/20/2015,12/4/2015,10013,Manhattan,New York,NYCC01,2
 507151,NYCC01,,,10/20/2015,,Nfl J,,Nfl Jerseys Paypal,,
 507152,NYCC01,,,10/20/2015,,Nfl J,,Nfl Jerseys Wholesale,,
+507169,NYCC01,General Welfare,Medicaid,10/22/2015,12/15/2015,10013,Manhattan,New York,NYCC01,1
+507174,NYCC01,Quality of Life,Noise - Other,10/22/2015,10/26/2015,10038,Manhattan,New York,NYCC01,1
 507154,NYCC01,,,10/22/2015,,Cheap,,Cheap Soccer Jerseys Online,,
 507155,NYCC01,,,10/22/2015,,Nfl J,,Nfl Jerseys China,,
 507156,NYCC01,,,10/22/2015,,Whole,,Wholesale Nfl Jerseys Authentic,,
@@ -630,6 +764,11 @@ Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough
 507162,NYCC01,,,10/22/2015,,Cheap,,Cheap Nfl Jerseys For Women,,
 507163,NYCC01,,,10/22/2015,,Nfl J,,Nfl Jerseys 2015,,
 507164,NYCC01,,,10/22/2015,,Nba J,,Nba Jerseys For Kids,,
+507166,NYCC01,Aging,,10/23/2015,,10025,Manhattan,New York,NYCC07,7
+507175,NYCC01,General Welfare,,10/23/2015,,10012,Manhattan,New York,NYCC01,2
+507173,NYCC01,Housing and Buildings,Boiler,10/23/2015,12/15/2015,10012,Manhattan,New York,NYCC01,2
+507168,NYCC01,Housing and Buildings,Heat/Hot Water,10/23/2015,10/23/2015,10002,Manhattan,New York,NYCC01,3
+507167,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/23/2015,10/30/2015,10002,Manhattan,New York,NYCC01,3
 507165,NYCC01,,,10/23/2015,,colla,,Collana Pendente,,
 507176,NYCC01,,,10/24/2015,,Nhl J,,Nhl Jerseys For Sale,,
 507177,NYCC01,,,10/24/2015,,Cheap,,Cheap Soccer Jerseys Clubs,,
@@ -637,6 +776,13 @@ Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough
 507179,NYCC01,,,10/24/2015,,Whole,,Wholesale Nfl Jerseys In Usa,,
 507180,NYCC01,,,10/24/2015,,Cheap,,Cheap Soccer Jerseys Online,,
 507181,NYCC01,,,10/24/2015,,socce,,Soccer Jerseys 14/15,,
+507191,NYCC01,Environment,,10/26/2015,,10024,Manhattan,New York,NYCC06,7
+507192,NYCC01,Finance,SCRIE,10/26/2015,10/26/2015,10002,Manhattan,New York,NYCC01,3
+507193,NYCC01,General Welfare,,10/26/2015,,,,,,
+507189,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/26/2015,,10002,Manhattan,New York,NYCC01,3
+507195,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/26/2015,,10002,Manhattan,New York,NYCC01,3
+507194,NYCC01,Public Safety,Loitering,10/26/2015,10/26/2015,,,,,
+507190,NYCC01,Quality of Life,,10/26/2015,,10012,Manhattan,New York,NYCC01,2
 507182,NYCC01,,,10/26/2015,,Nfl J,,Nfl Jerseys From China,,
 507183,NYCC01,,,10/26/2015,,Nba J,,Nba Jerseys Cheap,,
 507184,NYCC01,,,10/26/2015,,Whole,,Wholesale Nfl Jerseys,,
@@ -644,367 +790,220 @@ Case #,Account,General Issue,Specific Complaint,Open Date,Close Date,Zip,Borough
 507186,NYCC01,,,10/26/2015,,Cheap,,Cheap Nfl Jerseys Wholesale,,
 507187,NYCC01,,,10/26/2015,,Cheap,,Cheap Nfl Jerseys For Sale,,
 507188,NYCC01,,,10/26/2015,,Cheap,,Cheap Nfl Jerseys For Women,,
+507197,NYCC01,Education,ESL,10/27/2015,,10038,Manhattan,New York,NYCC01,3
+507198,NYCC01,Education,ESL,10/27/2015,,11237,Brooklyn,Brooklyn,NYCC37,4
+507199,NYCC01,Housing and Buildings,Gas,10/27/2015,11/10/2015,10038,Manhattan,New York,NYCC01,3
+507200,NYCC01,Housing and Buildings,Heat/Hot Water,10/27/2015,,10002,Manhattan,New York,NYCC01,3
+507202,NYCC01,Housing and Buildings,NYCHA Building Maintenance,10/27/2015,,10038,Manhattan,New York,NYCC01,3
+507201,NYCC01,Housing and Buildings,Tenant Harassment,10/27/2015,,10002,Manhattan,New York,NYCC01,3
+507203,NYCC01,Youth Services,,10/27/2015,,10282,,New York,,
 507196,NYCC01,,,10/27/2015,,Nhl J,,Nhl Jerseys China,,
+507208,NYCC01,Housing and Buildings,Eviction,10/28/2015,,10012,Manhattan,New York,NYCC01,2
+507211,NYCC01,Housing and Buildings,,10/28/2015,,10013,Manhattan,New York,NYCC01,2
+507209,NYCC01,Transportation,Subways,10/28/2015,10/30/2015,10038,Manhattan,New York,NYCC01,1
+507210,NYCC01,Utilities,Con Edison,10/28/2015,10/28/2015,,,,,
 507204,NYCC01,,,10/28/2015,,Nba J,,Nba Jerseys For Sale,,
 507205,NYCC01,,,10/28/2015,,Nfl J,,Nfl Jerseys China,,
 507206,NYCC01,,,10/28/2015,,Nhl J,,Nhl Jerseys For Kids,,
 507207,NYCC01,,,10/28/2015,,Whole,,Wholesale Nba Jerseys,,
+507212,NYCC01,Education,Adult Education,10/29/2015,,,,,,
+507216,NYCC01,General Welfare,,10/29/2015,,10011,Manhattan,New York,NYCC01,2
+507213,NYCC01,Housing and Buildings,Eviction,10/29/2015,10/29/2015,10012,Manhattan,New York,NYCC01,2
+507215,NYCC01,Public Safety,Disorderly Group,10/29/2015,,,,,,
+507214,NYCC01,Youth Services,,10/29/2015,,10012,Manhattan,New York,NYCC01,2
 507217,NYCC01,,,10/29/2015,,Cheap,,Cheap Jerseys From China,,
 507218,NYCC01,,,10/29/2015,,Nhl J,,Nhl Jerseys Cheap,,
 507219,NYCC01,,,10/29/2015,,Cheap,,Cheap Soccer Jerseys Online,,
 507220,NYCC01,,,10/29/2015,,Nfl J,,Nfl Jersey Supply,,
 507221,NYCC01,,,10/29/2015,,Whole,,Wholesale Nba Jerseys,,
+507223,NYCC01,Housing and Buildings,Lease Issue,10/30/2015,,10002,,New York,NYCC,
+507225,NYCC01,Housing and Buildings,Lease Issue,10/30/2015,,10002,,New York,NYCC,
+507226,NYCC01,Housing and Buildings,Lease Issue,10/30/2015,,10002,,New York,NYCC,
+507222,NYCC01,Housing and Buildings,Rent Increases,10/30/2015,,10002,,New York,NYCC,
+507224,NYCC01,Housing and Buildings,Rent Increases,10/30/2015,,10002,,New York,NYCC,
+507227,NYCC01,Environment,,11/2/2015,,11224,Brooklyn,Brooklyn,NYCC47,13
+507242,NYCC01,Housing and Buildings,,11/2/2015,,10012,Manhattan,New York,NYCC03,2
+507228,NYCC01,Parks,Tree Sidewalk Prog,11/2/2015,,10002,Manhattan,New York,NYCC01,3
+507230,NYCC01,Transportation,Bridge,11/2/2015,,,,,,
+507229,NYCC01,Transportation,Sidewalks,11/2/2015,,10002,Manhattan,New York,NYCC01,3
+507239,NYCC01,General Welfare,Home Attendants,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
+507238,NYCC01,General Welfare,Job Placement/Training/Education,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
+507236,NYCC01,Governmental Operations,Unclaimed Funds,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
+507237,NYCC01,Health,Hospital Facility or Clinic,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
+507234,NYCC01,Housing and Buildings,NYCHA New Application,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
+507232,NYCC01,Housing and Buildings,NYCHA Transfers,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
+507233,NYCC01,Housing and Buildings,Section 8,11/3/2015,11/3/2015,10002,Manhattan,New York,NYCC01,3
+507231,NYCC01,Housing and Buildings,,11/3/2015,,10013,Manhattan,New York,NYCC01,1
+507235,NYCC01,Public Safety,Identity Theft,11/3/2015,11/3/2015,10038,Manhattan,New York,NYCC01,3
+507240,NYCC01,Sanitation,Street Cleaning,11/3/2015,,10002,Manhattan,New York,NYCC01,3
+507241,NYCC01,General Welfare,,11/4/2015,,10007,Manhattan,New York,NYCC01,1
+507243,NYCC01,Housing and Buildings,Heat/Hot Water,11/4/2015,11/30/2015,10002,Manhattan,New York,NYCC01,3
+507245,NYCC01,Housing and Buildings,,11/4/2015,,10002,,New York,NYCC,
+507244,NYCC01,Utilities,,11/5/2015,,10013,,New York,,
+507249,NYCC01,Quality of Life,Noise - Residential,11/6/2015,12/29/2015,10012,Manhattan,New York,NYCC01,2
 507250,NYCC01,,,11/6/2015,,répli,,réplique colliers Trinity Cartier,,
+507264,NYCC01,Cultural Affairs,Museums,11/10/2015,11/13/2015,10007,Manhattan,New York,NYCC01,1
+507257,NYCC01,General Welfare,,11/10/2015,,10014,Manhattan,New York,NYCC03,2
+507255,NYCC01,Housing and Buildings,Building Maintenance,11/10/2015,,10012,Manhattan,New York,NYCC03,2
+507256,NYCC01,Housing and Buildings,,11/10/2015,,10002,Manhattan,New York,NYCC01,3
+507267,NYCC01,Consumer Affairs,Retail Store,11/13/2015,,10002,Manhattan,New York,NYCC01,3
+507263,NYCC01,Health,,11/13/2015,,10016,Manhattan,New York,NYCC02,5
+507265,NYCC01,Housing and Buildings,Section 8,11/13/2015,,10002,Manhattan,New York,NYCC01,3
+507259,NYCC01,Housing and Buildings,,11/13/2015,,10013,Manhattan,New York,NYCC01,2
+507260,NYCC01,Housing and Buildings,,11/13/2015,,10013,Manhattan,New York,NYCC01,2
+507266,NYCC01,Parks,Park Maintenance,11/13/2015,11/17/2015,10038,Manhattan,New York,NYCC01,3
+507268,NYCC01,Quality of Life,Noise - Other,11/13/2015,11/16/2015,10024,Manhattan,New York,NYCC06,7
+507269,NYCC01,Quality of Life,Noise - Other,11/13/2015,11/16/2015,10024,Manhattan,New York,NYCC06,7
+507334,NYCC01,Sanitation,Dirty Sidewalk,11/13/2015,12/30/2015,,,,,
+507261,NYCC01,Transportation,Bus Shelter/Stop,11/13/2015,12/14/2015,10002,,New York,,
+507262,NYCC01,Transportation,Bus Shelter/Stop,11/13/2015,12/23/2015,10002,Manhattan,New York,NYCC01,3
 507258,NYCC01,,,11/13/2015,,http:,,Http://Www.ville-Crolles.fr/Despe/Visuels/Chinache,,
+507279,NYCC01,Housing and Buildings,NYCHA Safety and Security,11/14/2015,,10002,Manhattan,New York,NYCC01,3
+507283,NYCC01,Sanitation,,11/15/2015,,10002,Manhattan,New York,NYCC01,3
+507286,NYCC01,Education,,11/16/2015,,10009,Manhattan,New York,NYCC02,3
+507294,NYCC01,Youth Services,,11/16/2015,,10013,Manhattan,New York,NYCC01,1
+507303,NYCC01,Aging,Elder Abuse,11/17/2015,12/16/2015,10001,,New York,,
+507301,NYCC01,Health,Death Certificates,11/17/2015,,10003,Manhattan,New York,NYCC01,2
+507333,NYCC01,Housing and Buildings,NYCHA Misc.,11/17/2015,,,,,,
+507298,NYCC01,Housing and Buildings,,11/17/2015,,10038,Manhattan,New York,NYCC01,1
+507304,NYCC01,Quality of Life,Noise - Other,11/17/2015,12/1/2015,10003,Manhattan,New York,NYCC02,3
+507314,NYCC01,Quality of Life,Noise - Other,11/18/2015,12/1/2015,10014,Manhattan,New York,NYCC03,2
+507326,NYCC01,Aging,Senior Centers,11/19/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
+507328,NYCC01,Governmental Operations ,,11/19/2015,,10013,Manhattan,New York,NYCC01,2
+507322,NYCC01,Health,Hospital Facility or Clinic,11/19/2015,,10002,Manhattan,New York,NYCC01,3
+507325,NYCC01,Housing and Buildings,Eviction,11/19/2015,11/19/2015,11374,,Rego Park,,
+507327,NYCC01,Transportation,Buses,11/19/2015,,10002,,New York,,
+507332,NYCC01,Governmental Operations ,,11/20/2015,,10004,Manhattan,New York,NYCC01,1
+507335,NYCC01,Housing and Buildings,NYCHA Building Maintenance,11/20/2015,,,,,,
+507336,NYCC01,Housing and Buildings,NYCHA Building Maintenance,11/21/2015,12/30/2015,10009,Manhattan,New York,NYCC02,3
+507337,NYCC01,Land Use and Zoning,,11/21/2015,,10016,Manhattan,New York,NYCC04,6
+507338,NYCC01,Health,Death Certificates,11/23/2015,,,,,,
+507344,NYCC01,Economy/Jobs,Letter of Rec./Referral,11/24/2015,11/24/2015,10038,,New York,,
+507342,NYCC01,Finance,Tax Assessments,11/24/2015,11/24/2015,10012,,New York,,
+507347,NYCC01,Housing and Buildings,Boiler,11/24/2015,,10013,Manhattan,New York,NYCC01,1
+507343,NYCC01,Housing and Buildings,HPD-owned Building Condition,11/24/2015,11/30/2015,10013,Manhattan,New York,NYCC01,1
+507339,NYCC01,Housing and Buildings,NYCHA New Application,11/24/2015,11/24/2015,10002,,New York,,
+507346,NYCC01,Housing and Buildings,Section 8,11/24/2015,11/24/2015,10003,Manhattan,New York,NYCC02,3
+507340,NYCC01,Quality of Life,Noise - Bar/Restaurant,11/24/2015,11/24/2015,10013,,New York,,
+507341,NYCC01,Sanitation,Missed Collection,11/24/2015,11/24/2015,10012,,New York,,
+507345,NYCC01,Transportation,Request from Taxi Operator,11/24/2015,,11580,,Valley Stream,,
+507349,NYCC01,Aging,,11/29/2015,,10012,Manhattan,New York,NYCC01,2
+507348,NYCC01,Parks,,11/29/2015,,10004,Manhattan,New York,NYCC01,1
+507351,NYCC01,Housing and Buildings,Heat/Hot Water,11/30/2015,12/30/2015,10038,,New York,,
+507352,NYCC01,Housing and Buildings,,11/30/2015,,10002,Manhattan,New York,NYCC01,3
+507355,NYCC01,Transportation,Pot Holes,11/30/2015,,,,,,
+507354,NYCC01,Transportation,Traffic Congestion,11/30/2015,12/1/2015,,,,,
 507356,NYCC01,,,11/30/2015,,10005,Manhattan,New York,NYCC01,1
-506709,NYCC01,Aging,Elder Abuse,6/23/2015,9/21/2015,10002,Manhattan,New York,NYCC01,3
-506329,NYCC01,Aging,Senior Centers,1/2/2015,1/14/2015,11220,Brooklyn,Brooklyn,NYCC38,7
-506676,NYCC01,Aging,Senior Centers,6/3/2015,6/19/2015,11104,Queens,Sunnyside,NYCC26,2
-506331,NYCC01,Aging,,1/4/2015,,10001,,New York,,
-506332,NYCC01,Aging,,1/4/2015,,10001,,New York,,
-506395,NYCC01,Aging,,1/22/2015,,10007,Manhattan,New York,NYCC01,1
-506402,NYCC01,Aging,,1/28/2015,,14196,,Brazzaville,,
-506417,NYCC01,Aging,,2/4/2015,,11355,Queens,Flushing,NYCC20,7
-506442,NYCC01,Aging,,2/11/2015,,11230,Brooklyn,Brooklyn,NYCC44,12
-506525,NYCC01,Aging,,3/12/2015,,10012,Manhattan,New York,NYCC01,2
-506567,NYCC01,Aging,,3/27/2015,,10007,Manhattan,New York,NYCC01,1
-506592,NYCC01,Aging,,4/13/2015,,10024,Manhattan,New York,NYCC06,7
-506680,NYCC01,Aging,,6/8/2015,,10019,Manhattan,New York,NYCC04,5
-506684,NYCC01,Aging,,6/10/2015,,10038,Manhattan,New York,NYCC01,3
-506732,NYCC01,Aging,,6/29/2015,,10024,,New Yoi,,
-506352,NYCC01,Civil Service and Labor,,1/12/2015,,10002,Manhattan,New York,NYCC01,3
-506639,NYCC01,Consumer Affairs,Debt Collection Agcy,5/5/2015,12/11/2015,10019,Manhattan,New York,NYCC03,4
-506544,NYCC01,Consumer Affairs,Home Improvement Issues,3/19/2015,12/29/2015,10013,Manhattan,New York,NYCC01,1
-506545,NYCC01,Consumer Affairs,Home Improvement Issues,3/20/2015,12/16/2015,10013,Manhattan,New York,NYCC01,1
-506373,NYCC01,Consumer Affairs,Insurance,1/15/2015,,10002,Manhattan,New York,NYCC01,3
-506354,NYCC01,Consumer Affairs,Restaurant,1/12/2015,1/12/2015,10003,Manhattan,New York,NYCC01,2
-506330,NYCC01,Consumer Affairs,,1/3/2015,,10001,,Manhattan,,
-506636,NYCC01,Consumer Affairs,,5/11/2015,5/11/2015,10002,,410 Grand Street #3F,,
-506644,NYCC01,Consumer Affairs,,5/13/2015,5/14/2015,10002,Manhattan,New York,NYCC01,3
-506546,NYCC01,Consumer Complaints,,3/21/2015,,10002,Manhattan,New York,NYCC01,3
-506622,NYCC01,Consumer Complaints,,5/1/2015,,10013,Manhattan,New York,NYCC01,1
-506623,NYCC01,Consumer Complaints,,5/1/2015,,11691,Queens,Far Rockaway,NYCC31,14
-506653,NYCC01,Consumer Complaints,,5/18/2015,,10002,Manhattan,New York,NYCC01,3
-506672,NYCC01,Consumer Complaints,,5/29/2015,,10012,Manhattan,New York,NYCC01,2
-506679,NYCC01,Consumer Complaints,,6/8/2015,,10001,,New York,,
-506695,NYCC01,Consumer Complaints,,6/17/2015,,11373,Queens,Elmhurst,NYCC25,4
-506713,NYCC01,Consumer Complaints,,6/24/2015,,10012,Manhattan,New York,NYCC01,2
-506691,NYCC01,Cultural Affairs,Community Based Organization,6/15/2015,6/19/2015,11215,Brooklyn,Brooklyn,NYCC39,7
-506408,NYCC01,Cultural Affairs,Theaters,1/20/2015,2/2/2015,10964,,Palisades,NYCC,
-506424,NYCC01,Cultural Affairs,,2/6/2015,2/9/2015,11205,Brooklyn,Brooklyn,NYCC35,2
-506453,NYCC01,Cultural Affairs,,2/17/2015,,10001,Manhattan,New York,NYCC03,5
-506459,NYCC01,Cultural Affairs,,2/19/2015,2/23/2015,10002,Manhattan,New York,NYCC01,3
-506471,NYCC01,Cultural Affairs,,2/26/2015,,10013,Manhattan,New York,NYCC01,1
-506478,NYCC01,Cultural Affairs,,3/4/2015,,10027,Manhattan,New York,NYCC07,9
-506581,NYCC01,Cultural Affairs,,4/3/2015,4/8/2015,10116,,New York,,
-506586,NYCC01,Cultural Affairs,,4/6/2015,4/14/2015,10038,Manhattan,New York,NYCC01,1
-506597,NYCC01,Cultural Affairs,,4/14/2015,4/14/2015,11201,Brooklyn,Brooklyn,NYCC33,2
-506733,NYCC01,Cultural Affairs,,6/30/2015,,10036,Manhattan,New York,NYCC04,5
-506342,NYCC01,Economy/Jobs,Business Assistance,1/8/2015,1/8/2015,11355,Queens,Flushing,NYCC20,7
-506530,NYCC01,Economy/Jobs,Business Assistance,3/14/2015,3/17/2015,12345,,123456,,
-506571,NYCC01,Economy/Jobs,Business Assistance,3/31/2015,4/8/2015,10038,Manhattan,New York,NYCC01,3
-506584,NYCC01,Economy/Jobs,Business Assistance,4/3/2015,4/8/2015,Oakle,,Oakley Outlet California,,
-506601,NYCC01,Economy/Jobs,Business Assistance,4/14/2015,4/21/2015,12345,,123456,,
-506605,NYCC01,Economy/Jobs,Business Assistance,4/17/2015,4/27/2015,12345,,123456,,
-506650,NYCC01,Economy/Jobs,Business Assistance,5/18/2015,6/11/2015,11530,,Garden City,NYCC,
-506681,NYCC01,Economy/Jobs,Business Assistance,6/9/2015,6/11/2015,11530,,Garden City,NYCC,
-506699,NYCC01,Economy/Jobs,Business Assistance,6/18/2015,6/19/2015,12345,,123456,,
-506483,NYCC01,Economy/Jobs,Unemployment Insuran,3/3/2015,3/11/2015,10009,Manhattan,New York,NYCC02,3
-506425,NYCC01,Economy/Jobs,,2/7/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
-506447,NYCC01,Economy/Jobs,,2/15/2015,,10001,,New York,,
-506536,NYCC01,Economy/Jobs,,3/17/2015,,10012,Manhattan,New York,NYCC01,2
-506628,NYCC01,Economy/Jobs,,5/7/2015,5/15/2015,10013,Manhattan,New York,NYCC01,1
-506662,NYCC01,Economy/Jobs,,5/22/2015,,10280,Manhattan,New York,NYCC01,1
-506669,NYCC01,Economy/Jobs,,5/27/2015,,10017,Manhattan,New York,NYCC04,6
-506686,NYCC01,Education,Tutoring Services,6/12/2015,6/12/2015,11214,Brooklyn,Brooklyn,NYCC47,11
-506400,NYCC01,Education,,1/26/2015,,10028,Manhattan,New York,NYCC05,8
-506441,NYCC01,Education,,2/11/2015,,10009,Manhattan,New York,NYCC04,6
-506497,NYCC01,Education,,3/10/2015,3/10/2015,10003,Manhattan,New York,NYCC02,3
-506532,NYCC01,Education,,3/16/2015,3/17/2015,10013,Manhattan,New York,NYCC01,1
-506569,NYCC01,Education,,3/30/2015,,10002,Manhattan,New York,NYCC01,3
-506595,NYCC01,Education,,4/13/2015,4/14/2015,10013,Manhattan,New York,NYCC01,2
-506603,NYCC01,Education,,4/15/2015,,10009,Manhattan,New York,NYCC02,3
-506627,NYCC01,Education,,5/6/2015,5/15/2015,10013,Manhattan,New York,NYCC01,2
-506723,NYCC01,Education,,6/27/2015,,10305,Staten Island,Staten Island,NYCC50,2
-506430,NYCC01,Environment,Noise Level Measuring Request,2/10/2015,2/10/2015,10002,Manhattan,New York,NYCC01,3
-506455,NYCC01,Environment,Water and Sewage Bills,2/18/2015,2/18/2015,10012,Manhattan,New York,NYCC01,2
-506397,NYCC01,Environment,,1/22/2015,1/30/2015,10002,Manhattan,New York,NYCC01,3
-506492,NYCC01,Environment,,3/9/2015,,10038,Manhattan,New York,NYCC01,1
-506506,NYCC01,Environment,,3/11/2015,,10006,Manhattan,New York,NYCC01,1
-506534,NYCC01,Environment,,3/17/2015,,10012,Manhattan,New York,NYCC01,2
-506547,NYCC01,Environment,,3/22/2015,,11201,Brooklyn,Brooklyn,NYCC33,2
-506556,NYCC01,Environment,,3/24/2015,,11222,Brooklyn,Brooklyn,NYCC33,1
-506612,NYCC01,Environment,,4/27/2015,4/27/2015,11249,Brooklyn,Brooklyn,NYCC33,1
-506722,NYCC01,Environment,,6/27/2015,,10012,Manhattan,New York,NYCC01,2
-506598,NYCC01,Finance,Budget Allocation Issue,4/14/2015,4/14/2015,10013,Manhattan,New York,NYCC01,2
-506599,NYCC01,Finance,Budget Allocation Issue,4/14/2015,4/14/2015,10002,Manhattan,New York,NYCC01,3
-506495,NYCC01,Finance,SCRIE,1/12/2015,3/10/2015,10280,Manhattan,New York,NYCC01,1
-506413,NYCC01,Finance,SCRIE,1/30/2015,4/1/2015,10013,Manhattan,New York,NYCC01,3
-506583,NYCC01,Finance,SCRIE,4/3/2015,4/3/2015,10002,Manhattan,New York,NYCC01,3
-506366,NYCC01,Finance,,1/14/2015,1/15/2015,10001,,New York,,
-506403,NYCC01,Finance,,1/28/2015,1/30/2015,10001,,New York,,
-506405,NYCC01,Finance,,1/30/2015,,10001,,New York,,
-506428,NYCC01,Finance,,2/10/2015,,10001,,New York,,
-506450,NYCC01,Finance,,2/15/2015,,10001,,New York,,
-506463,NYCC01,Finance,,2/20/2015,,10002,Manhattan,New York,NYCC02,3
-506706,NYCC01,Finance,,6/22/2015,,10001,,New York,,
-506707,NYCC01,Finance,,6/23/2015,,10001,,New York,,
-506721,NYCC01,Finance,,6/26/2015,,10001,,New York,,
-506724,NYCC01,Finance,,6/27/2015,,10001,,New York,,
-506729,NYCC01,Finance,,6/29/2015,,10012,Manhattan,New York,NYCC01,2
-506524,NYCC01,General Welfare,Child Custody Issue,3/12/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-506604,NYCC01,General Welfare,Discrimination,4/16/2015,4/16/2015,10011,Manhattan,New York,NYCC03,2
-506381,NYCC01,General Welfare,Food Stamps,1/15/2015,,10016,Manhattan,New York,NYCC02,6
-506393,NYCC01,General Welfare,Home Attendants,1/21/2015,,11101,Queens,Long Island City,NYCC26,1
-506643,NYCC01,General Welfare,Home Attendants,5/13/2015,5/13/2015,10002,Manhattan,New York,NYCC01,3
-506353,NYCC01,General Welfare,SSI and Social Security,1/12/2015,1/12/2015,10002,Manhattan,New York,NYCC01,3
-506358,NYCC01,General Welfare,,1/12/2015,,10002,Manhattan,New York,NYCC01,3
-506386,NYCC01,General Welfare,,1/20/2015,,12345,,Los Angeles,,
-506398,NYCC01,General Welfare,,1/24/2015,1/30/2015,12345,,Ashuelot,,
-506409,NYCC01,General Welfare,,2/3/2015,,10038,Manhattan,New York,NYCC01,1
-506421,NYCC01,General Welfare,,2/4/2015,2/6/2015,10019,Manhattan,New York,NYCC03,4
-506448,NYCC01,General Welfare,,2/15/2015,,12345,,Ambler,,
-506457,NYCC01,General Welfare,,2/19/2015,,10010,Manhattan,New York,NYCC02,6
-506566,NYCC01,General Welfare,,3/27/2015,,10012,Manhattan,New York,NYCC01,2
-506600,NYCC01,General Welfare,,4/14/2015,4/14/2015,10038,Manhattan,New York,NYCC01,1
-506661,NYCC01,General Welfare,,5/22/2015,,10026,,Manhaten,,
-506673,NYCC01,General Welfare,,5/31/2015,,10002,Manhattan,New York,NYCC01,3
-506727,NYCC01,General Welfare,,6/28/2015,,10001,,New York,,
-506728,NYCC01,General Welfare,,6/28/2015,,10001,,New York,,
-506730,NYCC01,General Welfare,,6/29/2015,,10013,Manhattan,New York,NYCC01,1
-506731,NYCC01,General Welfare,,6/29/2015,,10013,Manhattan,New York,NYCC01,1
-506683,NYCC01,Governmental Operations,Census,6/10/2015,6/11/2015,10009,,Ny,,
-506646,NYCC01,Governmental Operations,IDNYC,5/14/2015,5/14/2015,10002,Manhattan,New York,NYCC02,3
-506361,NYCC01,Governmental Operations,,1/14/2015,,11233,Brooklyn,Brooklyn,NYCC36,3
-506539,NYCC01,Governmental Operations ,,3/17/2015,,10002,Manhattan,New York,NYCC01,3
-506557,NYCC01,Governmental Operations ,,3/25/2015,,7731,,Howell,,
-506419,NYCC01,Health,Animal Care/Wild Animal,2/4/2015,2/4/2015,10012,Manhattan,New York,NYCC01,2
-506420,NYCC01,Health,Animal Care/Wild Animal,2/4/2015,2/4/2015,10002,Manhattan,New York,NYCC01,3
-506688,NYCC01,Health,Animal Care/Wild Animal,6/15/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
-506674,NYCC01,Health,Hospital Facility or Clinic,6/1/2015,6/19/2015,27539,,Apex,,
-506348,NYCC01,Health,,1/10/2015,,10001,,New York,,
-506479,NYCC01,Health,,3/4/2015,,10028,Manhattan,New York,NYCC05,8
-506526,NYCC01,Health,,3/12/2015,,10006,Manhattan,New York,NYCC01,1
-506570,NYCC01,Health,,3/30/2015,,10033,Manhattan,New York,NYCC10,12
-506374,NYCC01,Housing and Buildings,Building Maintenance,1/15/2015,,10038,Manhattan,New York,NYCC01,3
-506687,NYCC01,Housing and Buildings,Building Maintenance,6/15/2015,9/24/2015,10002,Manhattan,New York,NYCC01,3
-506694,NYCC01,Housing and Buildings,Building Maintenance,6/17/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-506576,NYCC01,Housing and Buildings,Construction General,4/1/2015,4/1/2015,10002,Manhattan,New York,NYCC01,3
-506383,NYCC01,Housing and Buildings,Eviction,1/15/2015,,10038,Manhattan,New York,NYCC01,3
-506641,NYCC01,Housing and Buildings,Eviction,5/12/2015,,10013,Manhattan,New York,NYCC01,3
-506651,NYCC01,Housing and Buildings,Eviction,5/18/2015,,10002,Manhattan,New York,NYCC01,3
-506868,NYCC01,Housing and Buildings,Eviction,6/24/2015,,10002,Manhattan,New York,NYCC01,3
-506863,NYCC01,Housing and Buildings,Eviction,6/25/2015,,,,,,
-506406,NYCC01,Housing and Buildings,Gas,1/30/2015,10/14/2015,,,,,
-506364,NYCC01,Housing and Buildings,Heat/Hot Water,1/14/2015,,10012,Manhattan,New York,NYCC01,2
-506456,NYCC01,Housing and Buildings,Heat/Hot Water,2/18/2015,2/18/2015,10002,Manhattan,New York,NYCC01,3
-506460,NYCC01,Housing and Buildings,Heat/Hot Water,2/20/2015,3/11/2015,10002,Manhattan,New York,NYCC01,3
-506689,NYCC01,Housing and Buildings,Hoarding,6/15/2015,,10002,Manhattan,New York,NYCC01,3
-506394,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,1/21/2015,,10012,Manhattan,New York,NYCC01,2
-506521,NYCC01,Housing and Buildings,Lease Issue,2/27/2015,3/11/2015,10002,Manhattan,New York,NYCC01,3
-507045,NYCC01,Housing and Buildings,Lease Issue,6/18/2015,,10013,Manhattan,New York,NYCC01,3
-506518,NYCC01,Housing and Buildings,Mitchell-Lama,2/23/2015,,10002,Manhattan,New York,NYCC01,3
-506341,NYCC01,Housing and Buildings,NYCHA Building Maintenance,1/7/2015,,,,,,
-506500,NYCC01,Housing and Buildings,NYCHA Building Maintenance,3/11/2015,,10002,,New York,,
-506502,NYCC01,Housing and Buildings,NYCHA Building Maintenance,3/11/2015,3/11/2015,10002,Manhattan,New York,NYCC01,3
-506527,NYCC01,Housing and Buildings,NYCHA Building Maintenance,3/13/2015,3/13/2015,10002,,New York,,
-506563,NYCC01,Housing and Buildings,NYCHA Building Maintenance,3/26/2015,4/2/2015,10038,Manhattan,New York,NYCC01,3
-506655,NYCC01,Housing and Buildings,NYCHA Building Maintenance,5/18/2015,,10029,Manhattan,New York,NYCC05,11
-506682,NYCC01,Housing and Buildings,NYCHA Building Maintenance,6/9/2015,,10038,Manhattan,New York,NYCC01,3
-506416,NYCC01,Housing and Buildings,NYCHA Misc.,2/4/2015,,10038,Manhattan,New York,NYCC01,3
-506461,NYCC01,Housing and Buildings,NYCHA Misc.,2/20/2015,12/28/2015,10002,Manhattan,New York,NYCC01,3
-506630,NYCC01,Housing and Buildings,NYCHA Misc.,5/8/2015,1/11/2016,10038,Manhattan,New York,NYCC01,3
-506705,NYCC01,Housing and Buildings,NYCHA Misc.,6/22/2015,6/22/2015,10002,Manhattan,New York,NYCC01,3
-506496,NYCC01,Housing and Buildings,NYCHA New Application,1/21/2015,3/10/2015,10002,Manhattan,New York,NYCC01,3
-506619,NYCC01,Housing and Buildings,NYCHA New Application,4/30/2015,4/30/2015,10002,Manhattan,New York,NYCC01,3
-506693,NYCC01,Housing and Buildings,NYCHA New Application,5/27/2015,6/17/2015,,,,,
-506914,NYCC01,Housing and Buildings,NYCHA New Application,6/16/2015,12/4/2015,10012,Manhattan,New York,NYCC01,2
-506749,NYCC01,Housing and Buildings,NYCHA Safety and Security,3/16/2015,,11356,Queens,Flushing,NYCC19,7
-506376,NYCC01,Housing and Buildings,NYCHA Transfers,1/15/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
-506670,NYCC01,Housing and Buildings,NYCHA Transfers,5/27/2015,,10038,Manhattan,New York,NYCC01,3
-506558,NYCC01,Housing and Buildings,Neighbor Dispute,3/25/2015,,10038,,New York,,
-506418,NYCC01,Housing and Buildings,Rent Increases,2/4/2015,12/29/2015,,,,,
-506357,NYCC01,Housing and Buildings,Rental Arrears,1/12/2015,1/12/2015,10002,Manhattan,New York,NYCC01,3
-506380,NYCC01,Housing and Buildings,Request for Housing Related Legal Assistance,1/15/2015,,10013,Manhattan,New York,NYCC01,3
-506362,NYCC01,Housing and Buildings,Section 8,1/14/2015,,10002,Manhattan,New York,NYCC01,3
-506367,NYCC01,Housing and Buildings,Section 8,1/14/2015,,10013,Manhattan,New York,NYCC01,3
-506481,NYCC01,Housing and Buildings,Section 8,2/24/2015,,11204,Brooklyn,Brooklyn,NYCC47,11
-506345,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,1/8/2015,1/8/2015,10013,Manhattan,New York,NYCC01,3
-506346,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,1/8/2015,1/8/2015,10013,Manhattan,New York,NYCC01,3
-506578,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,4/2/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-506607,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,4/18/2015,4/27/2015,10002,Manhattan,New York,NYCC01,3
-506491,NYCC01,Housing and Buildings,Senior Housing,2/27/2015,3/9/2015,10465,Bronx,Bronx,NYCC13,10
-506528,NYCC01,Housing and Buildings,Succession Rights,3/13/2015,,10038,Manhattan,New York,NYCC01,3
-506579,NYCC01,Housing and Buildings,Succession Rights,4/2/2015,,10038,Manhattan,New York,NYCC01,3
-506631,NYCC01,Housing and Buildings,Tenant Harassment,5/8/2015,,10007,Manhattan,New York,NYCC01,1
-506436,NYCC01,Housing and Buildings,,1/5/2015,,10002,Manhattan,New York,NYCC01,3
-506437,NYCC01,Housing and Buildings,,1/9/2015,,10002,Manhattan,New York,NYCC01,3
-506359,NYCC01,Housing and Buildings,,1/12/2015,1/15/2015,10009,Manhattan,New York,NYCC02,3
-506396,NYCC01,Housing and Buildings,,1/22/2015,,10002,Manhattan,New York,NYCC01,3
-506411,NYCC01,Housing and Buildings,,1/28/2015,,10002,Manhattan,New York,NYCC01,3
-506415,NYCC01,Housing and Buildings,,2/3/2015,,10038,Manhattan,New York,NYCC01,1
-506427,NYCC01,Housing and Buildings,,2/9/2015,,10280,Manhattan,New York,NYCC01,1
-506484,NYCC01,Housing and Buildings,,3/6/2015,,10025,Manhattan,New York,NYCC07,7
-506503,NYCC01,Housing and Buildings,,3/11/2015,3/11/2015,10013,Manhattan,New York,NYCC01,1
-506538,NYCC01,Housing and Buildings,,3/17/2015,,10012,Manhattan,New York,NYCC01,2
-506543,NYCC01,Housing and Buildings,,3/19/2015,,10012,Manhattan,New York,NYCC01,2
-506553,NYCC01,Housing and Buildings,,3/19/2015,,10002,Manhattan,New York,NYCC01,3
-506559,NYCC01,Housing and Buildings,,3/25/2015,,10012,Manhattan,New York,NYCC01,2
-506568,NYCC01,Housing and Buildings,,3/27/2015,,11355,Queens,Flushing,NYCC20,7
-506587,NYCC01,Housing and Buildings,,4/7/2015,,10002,Manhattan,New York,NYCC01,3
-506589,NYCC01,Housing and Buildings,,4/9/2015,4/14/2015,10009,Manhattan,New York,NYCC04,6
-506611,NYCC01,Housing and Buildings,,4/22/2015,4/27/2015,10002,Manhattan,New York,NYCC02,3
-506614,NYCC01,Housing and Buildings,,4/24/2015,,10002,Manhattan,New York,NYCC01,3
-506616,NYCC01,Housing and Buildings,,4/24/2015,,10002,Manhattan,New York,NYCC01,3
-506625,NYCC01,Housing and Buildings,,5/5/2015,5/15/2015,10009,Manhattan,New York,NYCC02,3
-506632,NYCC01,Housing and Buildings,,5/9/2015,5/15/2015,11238,Brooklyn,Brooklyn,NYCC35,8
-506633,NYCC01,Housing and Buildings,,5/10/2015,5/15/2015,34951,,Fort Pierce,,
-506678,NYCC01,Housing and Buildings,,6/6/2015,,10038,Manhattan,New York,NYCC01,3
-506702,NYCC01,Housing and Buildings,,6/21/2015,,10001,,New York,,
-506710,NYCC01,Housing and Buildings,,6/23/2015,,10001,,New York,,
-506379,NYCC01,Immigration,U.S. Citizenship,1/15/2015,,11229,Brooklyn,Brooklyn,NYCC48,15
-506343,NYCC01,Immigration,Visas,1/8/2015,1/8/2015,10002,Manhattan,New York,NYCC01,3
-506410,NYCC01,Immigration,Visas,1/22/2015,2/3/2015,11223,Brooklyn,Brooklyn,NYCC47,11
-506701,NYCC01,Immigration,,6/20/2015,,10001,,New York,,
-506719,NYCC01,Immigration,,6/26/2015,,10001,,New York,,
-506334,NYCC01,Land Use and Zoning,,1/5/2015,1/15/2015,10003,Manhattan,New York,NYCC02,5
-506472,NYCC01,Land Use and Zoning,,2/27/2015,,10280,Manhattan,New York,NYCC01,1
-506551,NYCC01,Land Use and Zoning,,3/23/2015,,10038,Manhattan,New York,NYCC01,1
-506725,NYCC01,Land Use and Zoning,,6/28/2015,,10001,,New York,,
-506560,NYCC01,Legal Services,Housing,3/25/2015,12/29/2015,10012,Manhattan,New York,NYCC01,2
-506519,NYCC01,Legal Services,Misc (Wills/Court Docs/etc.),1/16/2015,3/11/2015,10002,Manhattan,New York,NYCC01,3
-506613,NYCC01,Legal Services,,4/27/2015,,10002,Manhattan,New York,NYCC01,3
-506629,NYCC01,Parks,Off-Leash Hours (Dog),5/8/2015,5/15/2015,10002,Manhattan,New York,NYCC01,3
-506971,NYCC01,Parks,Park Maintenance,4/13/2015,8/17/2015,10038,Manhattan,New York,NYCC01,1
-506624,NYCC01,Parks,Park Maintenance,5/4/2015,5/15/2015,10013,Manhattan,New York,NYCC01,2
-506477,NYCC01,Parks,,3/3/2015,,10002,Manhattan,New York,NYCC02,3
-506554,NYCC01,Parks,,3/24/2015,,10013,Manhattan,New York,NYCC01,2
-506580,NYCC01,Parks,,4/3/2015,,10003,Manhattan,New York,NYCC01,2
-506588,NYCC01,Parks,,4/8/2015,,10010,Manhattan,New York,NYCC02,5
-506593,NYCC01,Parks,,4/13/2015,,10014,Manhattan,New York,NYCC03,2
-506602,NYCC01,Parks,,4/15/2015,,10001,Manhattan,New York,NYCC04,5
-506656,NYCC01,Parks,,5/20/2015,,10005,Manhattan,New York,NYCC01,1
-506663,NYCC01,Parks,,5/25/2015,,10002,Manhattan,New York,NYCC01,3
-506677,NYCC01,Parks,,6/4/2015,,10038,Manhattan,New York,NYCC01,3
-506704,NYCC01,Parks,,6/22/2015,,10005,Manhattan,New York,NYCC01,1
-506726,NYCC01,Parks,,6/28/2015,,10005,Manhattan,New York,NYCC01,1
-506692,NYCC01,Public Safety,Community Policing,6/16/2015,6/19/2015,10022,Manhattan,New York,NYCC04,6
-506368,NYCC01,Public Safety,Justice System,1/14/2015,,11416,Queens,Ozone Park,NYCC32,9
-506349,NYCC01,Public Safety,,1/10/2015,,10007,Manhattan,New York,NYCC01,1
-506401,NYCC01,Public Safety,,1/27/2015,,10012,Manhattan,New York,NYCC01,2
-506445,NYCC01,Public Safety,,2/14/2015,2/23/2015,10016,Manhattan,New York,NYCC02,6
-506454,NYCC01,Public Safety,,2/17/2015,,10013,Manhattan,New York,NYCC01,1
-506464,NYCC01,Public Safety,,2/21/2015,2/23/2015,11375,Queens,Forest Hills,NYCC29,6
-506465,NYCC01,Public Safety,,2/23/2015,2/23/2015,22060,,Fort Belvoir,,
-506466,NYCC01,Public Safety,,2/23/2015,2/23/2015,10013,Manhattan,New York,NYCC01,2
-506494,NYCC01,Public Safety,,3/10/2015,,10003,Manhattan,New York,NYCC01,2
-506504,NYCC01,Public Safety,,3/11/2015,,10006,Manhattan,New York,NYCC01,1
-506610,NYCC01,Public Safety,,4/20/2015,,10002,Manhattan,New York,NYCC01,3
-506634,NYCC01,Public Safety,,5/10/2015,5/12/2015,10003,Manhattan,New York,NYCC02,2
-506671,NYCC01,Public Safety,,5/28/2015,,10038,Manhattan,New York,NYCC01,3
-506555,NYCC01,Quality of Life,Noise - Construction,3/24/2015,,10013,Manhattan,New York,NYCC01,1
-506378,NYCC01,Quality of Life,Noise - Other,1/15/2015,,10012,Manhattan,New York,NYCC01,2
-506486,NYCC01,Quality of Life,Noise - Other,3/6/2015,,11421,Queens,Woodhaven,NYCC32,9
-506582,NYCC01,Quality of Life,Noise - Other,4/3/2015,,10013,,New York,,
-506371,NYCC01,Quality of Life,Noise - Residential,1/6/2015,3/5/2015,10038,Manhattan,New York,NYCC01,3
-506615,NYCC01,Quality of Life,Noise - Residential,4/24/2015,,10002,Manhattan,New York,NYCC01,3
-506574,NYCC01,Quality of Life,Panhandling,3/31/2015,8/25/2015,10012,Manhattan,New York,NYCC01,2
-506645,NYCC01,Quality of Life,Smoking,5/13/2015,11/24/2015,10002,Manhattan,New York,NYCC01,3
-506333,NYCC01,Sanitation,,1/4/2015,,10006,Manhattan,New York,NYCC01,1
-506585,NYCC01,Sanitation,,4/6/2015,,10038,Manhattan,New York,NYCC01,3
-506703,NYCC01,Sanitation,,6/21/2015,,10001,,New York,,
-506387,NYCC01,Transportation,Access-A-Ride,1/20/2015,12/30/2015,10023,Manhattan,New York,NYCC06,7
-506572,NYCC01,Transportation,Buses,3/31/2015,12/29/2015,,,,,
-506573,NYCC01,Transportation,Buses,3/31/2015,8/25/2015,,,New York,,
-506697,NYCC01,Transportation,Carriage Horses,6/17/2015,6/19/2015,14075,,Hamburg,NYCC,
-506338,NYCC01,Transportation,Parking Permits,1/6/2015,3/17/2015,10002,Manhattan,New York,NYCC01,3
-506356,NYCC01,Transportation,Parking Signs,1/12/2015,1/21/2015,10002,Manhattan,New York,NYCC01,3
-506698,NYCC01,Transportation,Pedestrian Safety,6/18/2015,6/19/2015,10002,Manhattan,New York,NYCC02,3
-506335,NYCC01,Transportation,Pot Holes,1/6/2015,,10002,Manhattan,New York,NYCC01,3
-506350,NYCC01,Transportation,Sidewalks,1/12/2015,,10002,Manhattan,New York,NYCC01,3
-506562,NYCC01,Transportation,Street Resurfacing,3/26/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
-506391,NYCC01,Transportation,Street Signs,1/20/2015,,10002,Manhattan,New York,NYCC01,3
-506609,NYCC01,Transportation,Subways,4/20/2015,,10002,Manhattan,New York,NYCC01,3
-506355,NYCC01,Transportation,Traffic Enforcement,1/12/2015,1/21/2015,10004,Manhattan,New York,NYCC01,1
-506382,NYCC01,Transportation,,1/15/2015,,11201,Brooklyn,Brooklyn,NYCC33,2
-506399,NYCC01,Transportation,,1/26/2015,,11209,Brooklyn,Brooklyn,NYCC43,10
-506423,NYCC01,Transportation,,2/6/2015,,10037,Manhattan,New York,NYCC09,10
-506490,NYCC01,Transportation,,2/10/2015,3/9/2015,11232,Brooklyn,Brooklyn,NYCC38,12
-506446,NYCC01,Transportation,,2/14/2015,2/23/2015,10038,Manhattan,New York,NYCC01,1
-506594,NYCC01,Transportation,,2/17/2015,,10002,Manhattan,New York,NYCC01,3
-506462,NYCC01,Transportation,,2/20/2015,,10004,,New York,,
-506548,NYCC01,Transportation,,3/22/2015,,7731,,Howell,,
-506577,NYCC01,Transportation,,4/2/2015,,10023,Manhattan,New York,NYCC06,7
-506591,NYCC01,Transportation,,4/12/2015,4/14/2015,10038,Manhattan,New York,NYCC01,3
-506606,NYCC01,Transportation,,4/17/2015,,10002,Manhattan,New York,NYCC01,3
-506608,NYCC01,Transportation,,4/20/2015,4/27/2015,10013,Manhattan,New York,NYCC01,1
-506635,NYCC01,Transportation,,5/11/2015,,10004,Manhattan,New York,NYCC01,1
-506638,NYCC01,Transportation,,5/12/2015,5/12/2015,10075,Manhattan,New York,NYCC05,8
-506647,NYCC01,Transportation,,5/15/2015,5/15/2015,11361,Queens,Bayside,NYCC19,11
-506648,NYCC01,Transportation,,5/15/2015,,11361,Queens,Bayside,NYCC19,11
-506649,NYCC01,Transportation,,5/15/2015,,11361,Queens,Bayside,NYCC19,11
-506652,NYCC01,Transportation,,5/18/2015,,10009,Manhattan,New York,NYCC02,3
-506659,NYCC01,Transportation,,5/21/2015,,10003,Manhattan,New York,NYCC01,2
-506685,NYCC01,Transportation,,6/11/2015,,10009,Manhattan,New York,NYCC02,3
-506696,NYCC01,Transportation,,6/17/2015,,14075,,Hamburg,NYCC,
-506700,NYCC01,Transportation,,6/19/2015,,10038,Manhattan,New York,NYCC01,1
-506714,NYCC01,Transportation,,6/24/2015,,10007,Manhattan,New York,NYCC01,1
-506575,NYCC01,Utilities,Prepaid Mobile Service,4/1/2015,,10013,Manhattan,New York,NYCC01,3
-506482,NYCC01,Utilities,Verizon,1/30/2015,,10035,Manhattan,New York,NYCC08,11
-506488,NYCC01,Utilities,Verizon,3/6/2015,3/9/2015,11204,Brooklyn,Brooklyn,NYCC44,11
-506489,NYCC01,Utilities,Verizon,3/6/2015,4/1/2015,11203,Brooklyn,Brooklyn,NYCC40,9
-506711,NYCC01,Utilities,,6/23/2015,,10001,,New York,,
-506449,NYCC01,Youth Services,,2/15/2015,,10038,Manhattan,New York,NYCC01,1
-506458,NYCC01,Youth Services,,2/19/2015,,10002,,New York,,
-506590,NYCC01,Youth Services,,4/11/2015,,10011,,New York,,
-506717,NYCC01,,Eviction,6/26/2015,,10002,Manhattan,New York,NYCC01,3
-506552,NYCC01,,Identity Theft,3/23/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
-506347,NYCC01,,,1/8/2015,,10038,Manhattan,New York,NYCC01,3
-506372,NYCC01,,,1/14/2015,,10002,Manhattan,New York,NYCC01,3
-506377,NYCC01,,,1/15/2015,,10002,Manhattan,New York,NYCC01,3
-506414,NYCC01,,,1/29/2015,,10038,Manhattan,New York,NYCC01,3
-506404,NYCC01,,,1/30/2015,,12345,,123456,,
-506422,NYCC01,,,2/6/2015,,12345,,123456,,
-506426,NYCC01,,,2/8/2015,,gucci,,Gucci Bags,,
-506443,NYCC01,,,2/12/2015,,north,,North Face Outlet Store,,
-506444,NYCC01,,,2/13/2015,,12345,,123456,,
-506451,NYCC01,,,2/15/2015,,12345,,123456,,
-506452,NYCC01,,,2/16/2015,,12345,,123456,,
-506467,NYCC01,,,2/24/2015,,12345,,123456,,
-506468,NYCC01,,,2/24/2015,,12345,,123456,,
-506473,NYCC01,,,2/28/2015,,12345,,123456,,
-506474,NYCC01,,,2/28/2015,,12345,,123456,,
-506475,NYCC01,,,3/1/2015,,12345,,123456,,
-506476,NYCC01,,,3/1/2015,,12345,,123456,,
-506480,NYCC01,,,3/4/2015,,12345,,123456,,
-506485,NYCC01,,,3/6/2015,,12345,,123456,,
-506487,NYCC01,,,3/8/2015,,12345,,123456,,
-506493,NYCC01,,,3/10/2015,,12345,,123456,,
-506529,NYCC01,,,3/13/2015,,10002,Manhattan,New York,NYCC01,3
-506531,NYCC01,,,3/16/2015,3/17/2015,12345,,123456,,
-506533,NYCC01,,,3/17/2015,3/17/2015,12345,,123456,,
-506540,NYCC01,,,3/18/2015,,12345,,123456,,
-506541,NYCC01,,,3/18/2015,,12345,,123456,,
-506542,NYCC01,,,3/19/2015,,12345,,123456,,
-506549,NYCC01,,,3/22/2015,,12345,,123456,,
-506550,NYCC01,,,3/23/2015,,12345,,123456,,
-506561,NYCC01,,,3/26/2015,,12345,,123456,,
-506564,NYCC01,,,3/26/2015,,12345,,123456,,
-506565,NYCC01,,,3/26/2015,,12345,,123456,,
-506617,NYCC01,,,4/28/2015,,12345,,123456,,
-506618,NYCC01,,,4/28/2015,,12345,,123456,,
-506668,NYCC01,,,5/4/2015,,10003,Manhattan,New York,NYCC02,3
-506664,NYCC01,,,5/5/2015,,11374,Queens,Rego Park,NYCC29,6
-506640,NYCC01,,,5/5/2015,,10002,Manhattan,New York,NYCC01,3
-506665,NYCC01,,,5/5/2015,,,,,,
-506666,NYCC01,,,5/5/2015,,11220,Brooklyn,Brooklyn,NYCC38,7
-506626,NYCC01,,,5/6/2015,,12345,,123456,,
-506667,NYCC01,,,5/8/2015,,11368,Queens,Corona,NYCC21,4
-506642,NYCC01,,,5/8/2015,,10002,Manhattan,New York,NYCC01,3
-506637,NYCC01,,,5/12/2015,5/12/2015,12345,,123456,,
-506654,NYCC01,,,5/18/2015,,10029,Manhattan,New York,NYCC05,11
-506660,NYCC01,,,5/22/2015,,12345,,123456,,
-506675,NYCC01,,,6/1/2015,,12345,,123456,,
-506712,NYCC01,,,6/24/2015,,12345,,123456,,
-506715,NYCC01,,,6/26/2015,,12345,,123456,,
-506720,NYCC01,,,6/26/2015,,12345,,123456,,
+507358,NYCC01,Education,School Registration/Placement,12/1/2015,,10002,Manhattan,New York,NYCC01,3
+507357,NYCC01,Housing and Buildings,NYCHA Misc.,12/1/2015,,10038,Manhattan,New York,NYCC01,3
+507360,NYCC01,General Welfare,,12/2/2015,,10002,Manhattan,New York,NYCC02,3
+507361,NYCC01,Housing and Buildings,NYCHA New Application,12/2/2015,,10013,Manhattan,New York,NYCC01,2
+507359,NYCC01,Utilities,Con Edison,12/2/2015,1/7/2016,10013,,New York,,
+507364,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/3/2015,,10002,Manhattan,New York,NYCC01,3
+507365,NYCC01,Education,School Maintenance,12/4/2015,12/16/2015,10012,,New York,,
+507398,NYCC01,Housing and Buildings,Senior Housing,12/4/2015,,10002,Manhattan,New York,NYCC01,3
+507369,NYCC01,Housing and Buildings,,12/4/2015,,,,,,
+507370,NYCC01,Housing and Buildings,,12/4/2015,,,,,,
+507371,NYCC01,Quality of Life,Noise - Other,12/4/2015,12/16/2015,10280,Manhattan,New York,NYCC01,1
+507368,NYCC01,Transportation,Bus Shelter/Stop,12/4/2015,1/21/2016,10002,Manhattan,New York,NYCC01,3
+507372,NYCC01,Housing and Buildings,Repair Assistance,12/6/2015,,10013,Manhattan,New York,NYCC01,1
+507373,NYCC01,Land Use and Zoning,Zoning,12/6/2015,12/16/2015,10002,Manhattan,New York,NYCC01,3
+507374,NYCC01,Housing and Buildings,Building Maintenance,12/7/2015,12/11/2015,10038,,New York,,
+507375,NYCC01,Housing and Buildings,NYCHA Transfers,12/7/2015,12/7/2015,,,,,
+507376,NYCC01,Aging,Medicare Savings Program,12/8/2015,,10013,Manhattan,New York,NYCC01,3
+507379,NYCC01,Housing and Buildings,Construction General,12/8/2015,,10002,Manhattan,New York,NYCC01,3
+507378,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/8/2015,,,,,,
+507377,NYCC01,Public Safety,,12/8/2015,,13202,,Syracuse,NYCC,
+507384,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507385,NYCC01,Economy/Jobs,,12/9/2015,,10017,Manhattan,New York,NYCC04,5
+507386,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507387,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507388,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507389,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507390,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507391,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507392,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507393,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507394,NYCC01,Economy/Jobs,,12/9/2015,,10017,Manhattan,New York,NYCC04,5
+507395,NYCC01,Economy/Jobs,,12/9/2015,1/12/2016,10017,Manhattan,New York,NYCC04,5
+507383,NYCC01,Housing and Buildings,Billboard/Awning and Building Sign,12/9/2015,1/8/2016,10002,Manhattan,New York,NYCC01,3
+507380,NYCC01,Quality of Life,Noise - Residential,12/9/2015,,10002,Manhattan,New York,NYCC01,3
+507413,NYCC01,Transportation,Parking Permits,12/9/2015,12/16/2015,,,,,
+507396,NYCC01,Transportation,Street Signs,12/9/2015,,11204,Brooklyn,Brooklyn,NYCC44,11
+507403,NYCC01,Housing and Buildings,,12/10/2015,,10002,Manhattan,New York,NYCC01,3
+507397,NYCC01,Youth Services,,12/10/2015,,10035,,New York,,
+507401,NYCC01,Housing and Buildings,Eviction,12/11/2015,12/11/2015,10019,Manhattan,New York,NYCC03,4
+507399,NYCC01,Housing and Buildings,Heat/Hot Water,12/11/2015,12/11/2015,10007,Manhattan,New York,NYCC01,1
+507400,NYCC01,Immigration,Green Card,12/11/2015,12/11/2015,10002,Manhattan,New York,NYCC01,3
+507420,NYCC01,General Welfare,HOMELESS ENCAMPMENT,12/14/2015,12/22/2015,,,,,
+507402,NYCC01,Housing and Buildings,Heat/Hot Water,12/14/2015,12/14/2015,10002,Manhattan,New York,NYCC01,3
+507490,NYCC01,Public Safety,Drug Activity,12/14/2015,1/5/2016,,,,,
+507411,NYCC01,Civil Service and Labor,Employee Benefits and Retirement,12/15/2015,12/17/2015,10002,Manhattan,New York,NYCC01,3
+507405,NYCC01,Land Use and Zoning,,12/15/2015,,10002,Manhattan,New York,NYCC01,3
+507410,NYCC01,Consumer Affairs,Insurance,12/16/2015,12/16/2015,10012,Manhattan,New York,NYCC01,2
+507408,NYCC01,Economy/Jobs,Business Assistance,12/16/2015,,10013,Manhattan,New York,NYCC01,2
+507414,NYCC01,Housing and Buildings,DOB Permits,12/16/2015,,10012,,New York,,
+507409,NYCC01,Land Use and Zoning,Zoning,12/16/2015,12/30/2015,10013,Manhattan,New York,NYCC01,1
+507406,NYCC01,Quality of Life,Noise - Other,12/16/2015,1/2/2016,10012,Manhattan,New York,NYCC01,2
+507412,NYCC01,Quality of Life,Noise - Other,12/16/2015,12/16/2015,10005,Manhattan,New York,NYCC01,1
+507417,NYCC01,Aging,,12/17/2015,,10002,Manhattan,New York,NYCC01,3
+507418,NYCC01,Education,,12/17/2015,,10040,Manhattan,New York,NYCC10,12
+507421,NYCC01,Finance,SCRIE,12/17/2015,,10002,Manhattan,New York,NYCC01,3
+507422,NYCC01,Finance,Tax Exemption,12/17/2015,12/17/2015,10002,,,,
+507415,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,12/17/2015,12/17/2015,10002,Manhattan,New York,NYCC02,3
+507419,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/17/2015,12/17/2015,11201,Brooklyn,Brooklyn,NYCC35,2
+507416,NYCC01,Housing and Buildings,Seeking an affordable housing/apartment,12/17/2015,,10024,Manhattan,New York,NYCC06,7
+507424,NYCC01,Housing and Buildings,NYCHA Safety and Security,12/18/2015,,10002,,New York,,
+507423,NYCC01,Transportation,Pedestrian Safety,12/18/2015,,10004,,New York,,
+507425,NYCC01,Governmental Operations ,,12/20/2015,,11230,Brooklyn,Brooklyn,NYCC44,12
+507428,NYCC01,Civil Service and Labor,Workplace Conditions,12/21/2015,12/31/2015,11222,Brooklyn,Brooklyn,NYCC33,1
+507449,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,,,,,
+507455,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,,,,,
+507457,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,,,,,
+507458,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,,,,,
+507459,NYCC01,Governmental Operations,IDNYC,12/21/2015,12/29/2015,10013,,New York,,
+507426,NYCC01,Housing and Buildings,NYCHA Safety and Security,12/21/2015,,10038,Manhattan,New York,NYCC01,3
+507427,NYCC01,Transportation,Buses,12/21/2015,,,,,,
+507431,NYCC01,Education,,12/22/2015,,10002,Manhattan,New York,NYCC01,3
+507450,NYCC01,Governmental Operations,IDNYC,12/22/2015,12/29/2015,10002,,NY,,
+507452,NYCC01,Governmental Operations,IDNYC,12/22/2015,12/29/2015,11220,,Brooklyn,,
+507429,NYCC01,Housing and Buildings,Boiler,12/22/2015,12/22/2015,10002,Manhattan,New York,NYCC01,3
+507430,NYCC01,Transportation,Street Signs,12/22/2015,,10013,Manhattan,New York,NYCC01,1
+507433,NYCC01,Consumer Affairs,Debt Collection Agcy,12/23/2015,1/7/2016,10038,,New York,,
+507435,NYCC01,Housing and Buildings,Landlord/Managing Agent Issues,12/23/2015,12/23/2015,10013,,New York,,
+507434,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/23/2015,1/4/2016,10038,Manhattan,New York,NYCC01,3
+507432,NYCC01,Public Safety,,12/23/2015,,10013,Manhattan,New York,NYCC01,2
+507436,NYCC01,Quality of Life,Graffiti,12/24/2015,,10038,Manhattan,New York,NYCC01,1
+507443,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/25/2015,,10038,Manhattan,New York,NYCC01,3
+507446,NYCC01,Governmental Operations,IDNYC,12/27/2015,12/29/2015,10002,,New York,,
+507442,NYCC01,Consumer Affairs,Restaurant,12/28/2015,1/12/2016,10460,,Bronx,,
+507444,NYCC01,Cultural Affairs,Community Based Organization,12/28/2015,12/30/2015,10007,Manhattan,New York,NYCC01,1
+507440,NYCC01,Housing and Buildings,Heat/Hot Water,12/28/2015,12/28/2015,10002,Manhattan,New York,NYCC01,3
+507441,NYCC01,Housing and Buildings,Heat/Hot Water,12/28/2015,12/28/2015,10002,,New York,,
+507439,NYCC01,Utilities,Lifeline,12/28/2015,12/28/2015,11220,Brooklyn,Brooklyn,NYCC38,7
+507465,NYCC01,Consumer Affairs,Telephone Scam,12/29/2015,12/29/2015,,,,,
+507454,NYCC01,Governmental Operations,IDNYC,12/29/2015,12/29/2015,10016,,New York,,
+507460,NYCC01,Governmental Operations,IDNYC,12/29/2015,,10002,,New York,,
+507461,NYCC01,Governmental Operations,IDNYC,12/29/2015,12/29/2015,10001,,New York,,
+507463,NYCC01,Housing and Buildings,Construction General,12/29/2015,12/29/2015,10012,Manhattan,New York,NYCC01,2
+507453,NYCC01,Housing and Buildings,Lease Issue,12/29/2015,12/29/2015,,,,,
+507447,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,12/29/2015,10002,Manhattan,New York,NYCC01,3
+507448,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,,10002,Manhattan,New York,NYCC01,3
+507451,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,,,,,,
+507456,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,,10002,,New York,,
+507466,NYCC01,Housing and Buildings,NYCHA Building Maintenance,12/29/2015,12/29/2015,10002,,New York,,
+507462,NYCC01,Housing and Buildings,Neighbor Dispute,12/29/2015,,10002,,New York,,
+507464,NYCC01,Housing and Buildings,Supportive Housing,12/29/2015,12/29/2015,10002,,New York,,
+507468,NYCC01,Civil Service and Labor,Job Requirements,12/30/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
+507475,NYCC01,Environment,Air Quality,12/30/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
+507469,NYCC01,Finance,Parking Violation,12/30/2015,12/30/2015,10013,,New York,,
+507472,NYCC01,General Welfare,Food Stamps,12/30/2015,12/30/2015,10002,,New York,,
+507476,NYCC01,Housing and Buildings,Bed Bugs,12/30/2015,12/30/2015,10002,Manhattan,New York,NYCC01,3
+507470,NYCC01,Housing and Buildings,Heat/Hot Water,12/30/2015,12/30/2015,10002,,New York,,
+507471,NYCC01,Housing and Buildings,Neighbor Dispute,12/30/2015,12/30/2015,10002,,New York,,
+507467,NYCC01,Parks,,12/30/2015,,10002,Manhattan,New York,NYCC01,3
+507474,NYCC01,Transportation,Access-A-Ride,12/30/2015,12/30/2015,10013,Manhattan,New York,NYCC01,1
+507473,NYCC01,Transportation,Parking Restrictions,12/30/2015,12/30/2015,10002,,New York,,
+507479,NYCC01,Health,HIV/Aids,12/31/2015,12/31/2015,10002,,New York,,
+507478,NYCC01,Housing and Buildings,Eviction,12/31/2015,12/31/2015,11233,Brooklyn,Brooklyn,NYCC41,16
+507477,NYCC01,Housing and Buildings,Heat/Hot Water,12/31/2015,1/2/2016,10002,Manhattan,New York,NYCC01,3
