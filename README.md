@@ -2,6 +2,11 @@
 Snapshot of data from City Council District Offices 
 
 ## DATA SET
+From Woodlawn to Coney Island, each New York City neighborhood is part of a Council district. New York City has 51 of these districts, and each is represented by an elected Council Member. 
+
+In addition to its city-wide functions (legislative, financial, and land use), the City Council is also your advocate regarding local City matters. District Offices in all 51 districts help residents with a wide range of issues, from food stamps and affordable housing, to potholes and pedestrian safety.  Council Member District Office staff work with residents to resolve tough issues, and gather resident input. 
+
+City Council offices have access to software that tracks their constituent case load (the issues they are helping residents with). This dataset aggregates the information that individual staff have input. However, district staffs handle a wide range of complex issues.  
 
 
 ## FIELDS
@@ -9,11 +14,11 @@ Snapshot of data from City Council District Offices
 ### Case #	
 Case # is the case number of the constituent casework. This is unique to Account, but not unique over all Accounts.
 For instance, NYCC01 may have case # "123456" and NYCC36 may also have case # "123456", but the are different cases, unique to each Account.
-This is generated automatically
+This is generated automatically.
 
 ### Account	
 Account is the Council District that created the casework, this may or not be the district that the constituent lives in. 
-This is generated automatically
+This is generated automatically.
 
 ### General Issue	
 General Issue is the broader category designated by staff for the constituent casework.
