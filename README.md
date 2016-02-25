@@ -13,7 +13,7 @@ City Council offices have access to software that tracks their constituent case 
 
 ### Case #	
 Case # is the case number of the constituent casework. This is unique to Account, but not unique over all Accounts.
-For instance, NYCC01 may have case # "123456" and NYCC36 may also have case # "123456", but the are different cases, unique to each Account.
+For instance, NYCC01 may have case # "123456" and NYCC36 may also have case # "123456", but they are different cases, unique to each Account.
 This is generated automatically.
 
 ### Account	
