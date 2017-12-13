@@ -1,5 +1,6 @@
 # service-data
 Snapshot of data from City Council District Offices 
+Dataset updated daily - https://data.cityofnewyork.us/City-Government/NYC-Council-Constituent-Services/b9km-gdpy
 
 ## DATA SET
 From Woodlawn to Coney Island, each New York City neighborhood is part of a Council district. New York City has 51 of these districts, and each is represented by an elected Council Member. 
